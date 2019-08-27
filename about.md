@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/octojekyll.png" caption="Octojekyll." width=300 align="right" %}
+&#9995; Would you like to know what I do, when I'm not reading papers or writing? What is helping my to **recharge my battery?**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit mattis nulla eu cursus. Fusce finibus, orci sit amet tincidunt fermentum, risus ante pharetra nisi, eget tempus tellus tellus ut est. Nunc tempus cursus arcu mattis ultricies. Cras volutpat purus et lectus facilisis tempor. Suspendisse at lorem feugiat, feugiat massa vel, scelerisque dolor. Proin justo nisl, mattis eu sapien in, efficitur fringilla nulla. Phasellus placerat, lacus in venenatis tristique, risus dolor eleifend felis, vitae finibus augue nibh ut libero. Morbi sit amet tincidunt lorem.
-
+I'm a devoted runner. I do running a lot. Now'm I'm mainly focusing on marathon distances, where my main goal is to be confident running sub 3 hours marathon. If you like running too, you might take a look on my [running blog](https://www.tracetheheat.com) or just follow me on [Strava](https://www.strava.com/athletes/straubd) &#127939;
