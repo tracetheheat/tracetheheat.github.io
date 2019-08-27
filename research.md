@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-My research focuses on travel behavirou, mobility and transport policies. Especially free fare public transport policy, where I'm exploring the impact of the policy on travel behaviour, urban and transport development dynamics. 
+My research focuses on travel behaviour, mobility and transport policies. Especially free fare public transport policy, where I'm exploring the impact of the policy on travel behaviour, urban and transport development dynamics. 
 
 ## Publications
 
