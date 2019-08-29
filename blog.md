@@ -6,7 +6,7 @@ permalink: /blog/
 
 Here is my semi-regular blog &#128221;, where I reflect my research or write about stuff which are reletad to my PhD. Eventually other things which cross my mind.
 
-*Chronological* order of all posts is below and [here](categories.html) is *category* page.
+*Chronological* order of all blog posts is below and [here](categories.html) is *category* page.
 
 <ul class="listing">
 {% for post in site.posts %}

@@ -13,4 +13,4 @@ I'm a devoted runner. I do running a lot. Now'm I'm mainly focusing on marathon 
 
 **You still here?** 
 
-Feel free to check my blog &#9749; where I write about stuff related to research, like productivity, tips & tricks, updates of my research/PhD study or just some random thoughts.
+Feel free to check my [blog](blog.md) &#9749; where I write about stuff related to research, like productivity, tips & tricks, updates of my research/PhD study or just some random thoughts.
