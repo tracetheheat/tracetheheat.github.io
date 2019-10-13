@@ -8,7 +8,7 @@ Current version of my CV is below. You can also [download the PDF here](https://
 
 # Daniel Štraub
 
-## [straubd@tuta.io](mailto:straubd@tuta.io)
+### [d.straub@doctoral.uj.edu.pl](mailto:d.straub@doctoral.uj.edu.pl)
 
  
 Phd in Socio-economic Geography and Spatial Planning
