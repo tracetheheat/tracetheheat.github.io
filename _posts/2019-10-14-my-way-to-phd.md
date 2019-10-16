@@ -32,4 +32,4 @@ Everything just perfectly fitted together and already during the way I've realiz
 
 Of course, I'm not expecting that PhD is going to be only about roses and so on. I'm aware, for upcoming years unexpected things will happen, nothing would fit together and that it won’t be probably as smooth as it was now (even though I was focusing on two, and for me till this time, the biggest projects). Nor I'm expecting PhD will be easy and it’s possible that at some point I might even be looking back saying “What was I thinking?!” But looking back at this moment, I could see why I'm going for it.
 
-{% include image.html url="/images/pencil.jpg" caption="focus" align="center" %}
+{% include image.html url="/images/pencil.jpg" caption="https://unsplash.com/@joannakosinska" align="center" %}
