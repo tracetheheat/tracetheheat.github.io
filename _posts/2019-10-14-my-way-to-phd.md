@@ -31,3 +31,5 @@ It was an eye-opening experience. Everything was solely on me. Setting up the en
 Everything just perfectly fitted together and already during the way I've realized **this is what I want to do and what I'm good at.** Planning my work and be responsible for it. Freedom and autonomy. That's why I went for a PhD.
 
 Of course, I'm not expecting that PhD is going to be only about roses and so on. I'm aware, for upcoming years unexpected things will happen, nothing would fit together and that it won’t be probably as smooth as it was now (even though I was focusing on two, and for me till this time, the biggest projects). Nor I'm expecting PhD will be easy and it’s possible that at some point I might even be looking back saying “What was I thinking?!” But looking back at this moment, I could see why I'm going for it.
+
+{% include image.html url="/images/pencil.jpg" caption="" width=180 align="center" %}
