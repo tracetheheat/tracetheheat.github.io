@@ -46,11 +46,11 @@ According to their experience, the app captures around 10 % of all bike movement
 
 
 ## Additional reading
- 
-https://blog.strava.com/a-lane-over-and-a-world-apart-14033/
 
-https://www.citylab.com/transportation/2017/11/strava-metro-global-heatmap-urban-planning/545174/
+[A Lane Over and a World Apart](https://blog.strava.com/a-lane-over-and-a-world-apart-14033/)
 
-https://www.theguardian.com/lifeandstyle/2016/may/09/city-planners-cycling-data-strava-tracking-app
+[Strava Metro - Global Heatmap Urban Planning](https://www.citylab.com/transportation/2017/11/strava-metro-global-heatmap-urban-planning/545174/)
+
+[City Planners and Cycling Data](https://www.theguardian.com/lifeandstyle/2016/may/09/city-planners-cycling-data-strava-tracking-app)
 
 
