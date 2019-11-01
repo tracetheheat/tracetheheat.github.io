@@ -65,7 +65,7 @@ Born: 04/10/1993, Ceska Lipa, Czechia
 
 *Ceepus scholarship*
 
-*Award of the Deparment of Social Geography and Regional Development, Charles University*
+*Award of the Department of Social Geography and Regional Development, Charles University*
 
 
 

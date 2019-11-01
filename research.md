@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-I'm interested in travel behaviour, mobility and transport policies. Especially free fare public transport policy, where I'm exploring the impact of the policy on travel behaviour, urban and transport development dynamics. 
+I'm interested in travel behaviour, mobility and transport policies. Especially free fare public transport policy, where I'm exploring the impact of the policy on travel behaviour and borader socio-spatial and environmental dynamics of the policy.
 
 ## Publications
 
