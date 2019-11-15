@@ -2,7 +2,7 @@
 layout: post
 title:  "My way to a PhD!"
 date:   2019-10-14 15:36:27
-categories: phd personal opinion
+categories: PhDchat
 ---
 > In this post, I'm going to share my story why I've decided to go for a PhD.
 

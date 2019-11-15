@@ -2,7 +2,7 @@
 layout: post
 title:  "Quantified self: hidden potential for policymakers!"
 date:   2019-11-1 15:36:27
-categories: mobility bigdata opinion
+categories: mobility
 ---
 > In this post, I would like to present an opinion on how self-tracking could be useful for policymakers
 
