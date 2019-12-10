@@ -35,6 +35,7 @@ It all depends on how the city is prepared to connect all available transport mo
 In other words, there has to be:
 
 **1. an offer of various transport modes and services**
+
 **2. available technology and data**
 
 all pulled together thanks to
