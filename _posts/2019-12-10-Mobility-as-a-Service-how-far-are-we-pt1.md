@@ -34,12 +34,12 @@ It all depends on how the city is prepared to connect all available transport mo
 
 In other words, there has to be:
 
-1. **an offer of various transport modes and services**
-2. **available technology and data**
+**1. an offer of various transport modes and services**
+**2. available technology and data**
 
 all pulled together thanks to
 
-3. **incentives and will from the city planning authorities** (e.g. legal framework)
+**3. incentives and will from the city planning authorities** (e.g. legal framework)
 
 Of course, the city should have also developed infrastructure to accommodate all prevailing and newly emerged mode of transport. Qualite infrastructure is a must, while it could well enhance ongoing changes as the opposite, but this is the debate for another post. Mentioned three points are in my opinion the essentials.
 
