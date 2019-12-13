@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Mobility as a Service - How far are we? pt.1"
-date:   2019-12-10 15:36:27
+title:  "Mobility as a Service - How far are we? pt.2"
+date:   2019-13-10 15:36:27
 categories: mobility
 ---
 > the second part of the Mobility as a Service, Cracow case study
@@ -21,7 +21,7 @@ Application of the Maas wouldn’t make sense if there wouldn’t be enough tran
 The table below presents the current transportation offer.
 
 | **PUBLIC TRANSPORT**                                       | **TAXI**                                              | **CAR-SHARING**                                    | **BIKE-SHARING**                | **E-SCOOTERS/ E-MOPEDS**                    | **CAR-RENTAL**                                          |
-| ---------------------------------------------------------- | ----------------------------------------------------- | -------------------------------------------------- | ------------------------------- | ------------------------------------------- | ------------------------------------------------------- |
+|------------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------|---------------------------------|---------------------------------------------|---------------------------------------------------------|
 | [MPK SA](http://www.mpk.krakow.pl/en/) (bus, tram)         | [Uber](https://www.uber.com/global/en/cities/krakow/) | [Traficar](https://www.traficar.pl/)               | [Wavelo](https://wavelo.pl/) *2 | [Hulaj](https://hulaj.eu/en/cities/cracow/) | [Panek](https://www.ipanek.pl/en)                       |
 | [Koleje Małopolske](https://malopolskiekoleje.pl/) (train) | [Bolt](https://bolt.eu/pl/cities/krakow/)             | [Panek](https://panekcs.pl/en/where-are-we/cracow) |                                 | [Blinkee](https://blinkee.city/en) (both)   | [Sixt](https://www.sixt.pl/)                            |
 |                                                            | [Free Now](https://free-now.com/pl/)                  | [Citybee](https://www.citybee.pl/pl)               |                                 | [Hive](https://www.ridehive.com/)           | [Hertz](https://www.hertz.com.pl/rentacar/reservation/) |
@@ -61,12 +61,12 @@ The second one, [Wheelme](https://wheelme.app/), is going a bit further, but it�
 
 We already know, there are 3 pillars which underpin the MaaS - **offer of various transport modes and services**, **available data and technology** and **the will or action of local government**  to push it all together. It is now important to understand the official statement of the city council and planning authorities from Cracow.
 
-    - Do they know about Mobility as a Service concept?
-    - Is there any ongoing debate in regards to MaaS potential and application in the city?
-    - How does such a debate look like? 
-    - Who is a part of this debate?
-    - To which extent is Cracow now prepared to start with the MaaS implementation?
-    - Is MaaS part of broader vision and strategy of not only the urban/transport development within the Cracow metropolitan area or superior vision of urban/transport development in Poland?
+- Do they know about Mobility as a Service concept?
+- Is there any ongoing debate in regards to MaaS potential and application in the city?
+- How does such a debate look like? 
+- Who is a part of this debate?
+- To which extent is Cracow now prepared to start with the MaaS implementation?
+- Is MaaS part of broader vision and strategy of not only the urban/transport development within the Cracow metropolitan area or superior vision of urban/transport development in Poland?
 
 Those are one out of many crucial questions which have to be addressed at this place.
 
@@ -95,9 +95,9 @@ At this time (December of 2019), the city council is discussing the new city [bu
 
 Cracow local government should initiate a debate over the MaaS application and what is more important, the local government should already from the begining put themself into the position as a moderator of the whole MaaS ecosystem. Such a position is crucial for the city planning authorities, while the key competencies of such a moderator lie in:
 
-    - explaining the **vision** 
-    - setting **the rules** for the MaaS providers
-    - defining **which actors** are going to be included in the MaaS project, as well as **their power and position** within the network
+- explaining the **vision** 
+- setting **the rules** for the MaaS providers
+- defining **which actors** are going to be included in the MaaS project, as well as **their power and position** within the network
 
 Those are all serious issues which need to be tackled from the position of local government. Only the local government represents a broad spectrum of different actors, such as public and transportation services providers and its main aim is to focus on what is good for the public.
 
