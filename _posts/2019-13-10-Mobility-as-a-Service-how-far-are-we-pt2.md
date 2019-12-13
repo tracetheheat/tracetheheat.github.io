@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mobility as a Service - How far are we? pt.2"
-date:   2019-13-10 15:36:27
+date:   2019-12-13 15:36:27
 categories: mobility
 ---
 > the second part of the Mobility as a Service, Cracow case study
