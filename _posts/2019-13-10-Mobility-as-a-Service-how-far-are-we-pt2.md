@@ -16,7 +16,7 @@ In doing so, I'm focusing on the 3 core aspects of the MaaS platform, which are
 
 ## 1. Transport Modes and Services
 
-Application of the Maas wouldn’t make sense if there wouldn’t be enough transportation modes and services, which operates in the city. 
+Application of the Maas wouldn’t make sense if there weren't enough transportation modes and services, which operate in the city. 
 
 The table below presents the current transportation offer.
 
@@ -36,14 +36,14 @@ The table below presents the current transportation offer.
 
 ***note:*** *table above shows only those transport modes and services, which targets group are mainly residents of Cracow; services focusing on renting bikes (*[*bikerentkrk*](http://bikerentkrk.eu/en/home-2/)*) or offering private shuttles to airport and main touristic attractions nearby(*[*krakowshuttle*](https://krakowshuttle.com/)*,* [*krakowairporttransfer*](http://www.krakowairporttransfer.pl/)*,* [*bekrakow*](http://www.bekrakow.com/)*) are exlcuded while they are services provided for tourists and are not subject to day-to-day travelling*
 
-Looking on that, Cracow already offers a broad spectrum of transportation modes and service which we could find in any modern city. Next to traditional public transport, which includes mainly trams and busses, but also trains to suburb locations and classic taxi services, we could find here also peer-to-peer ridesharing services like Uber, Bolt and Free Now (through Free Now app is possible to use Hive e-scooters). Traditional service in Cracow is it’s bike-sharing system Wavelo, which will be terminated at the beginning of 2020. City council has already decided, that finding a new provider of bike-sharing service is going to be prioritet since the service is very popular (see [here](https://lovekrakow.pl/aktualnosci/krakow-dla-mieszkancow-miasto-moze-przejac-rowery-i-stacje-wavelo_33240.html)). The last group of new transport services, besides classical car rental, are in recent years newly emerged car-sharing and e-scooter/e-mopeds services. Currently, there are 3 car-sharing options, where 2 (Traficar, Panek) offers traditional and electric cars for day-to-day travelling within the city and one (Citybee), which offers bigger vans for cargo or groups up to 9 people. E-scooters/e-mopeds sharing services could be unfortunately used only in the limited area of the city centre and it’s wider surrounding, offering a flexible alternative to cars and public transport in the centre.
+Looking on that, Cracow already offers a broad spectrum of transportation modes and service which we could find in any modern city. Next to traditional public transport, which includes mainly trams and busses, but also trains to suburb locations and classic taxi services, we could find here also peer-to-peer ridesharing services like Uber, Bolt and Free Now (through Free Now app is possible to use Hive e-scooters). Traditional service in Cracow is bike-sharing system Wavelo, which will be terminated at the beginning of 2020. City council has already decided, that finding a new provider of bike-sharing service is going to be priority since the service is very popular (see [here](https://lovekrakow.pl/aktualnosci/krakow-dla-mieszkancow-miasto-moze-przejac-rowery-i-stacje-wavelo_33240.html)). The last group of new transport services, besides classical car rental, are in recent years newly emerged car-sharing and e-scooter/e-mopeds services. Currently, there are 3 car-sharing options, where 2 (Traficar, Panek) offer traditional and electric cars for day-to-day travelling within the city and one (Citybee), which offers bigger vans for cargo or groups up to 9 people. E-scooters/e-mopeds sharing services could be unfortunately used only in the limited area of the city centre and it’s wider surrounding, offering a flexible alternative to cars and public transport in the centre.
 
 {% include image.html url="/images/crossroad.png" caption="https://unsplash.com/@denro13" align="center" %}
 
 
 ## 2. Available Technology
 
-As we could see in the previous part, there are more than **26 different transportation modes and services**. This makes Cracow a perfect candidate for the MaaS application. What is nowadays the biggest flaw, is the fact, that for each transportation service and mode, there is a different application. This not only horribly looks on the screen, but it also makes it difficult for the users in analyzing what could be the best option in the given time. 
+As we could see in the previous part, there are more than **26 different transportation modes and services**. This makes Cracow a perfect candidate for the MaaS application. What is nowadays the biggest flaw, is the fact, that for each transportation service and mode, there is a different application. This not only horribly looks on the screen, but it also makes it difficult for the users to analyze what could be the best option in the given time. 
 
 Just consider, we want to use car-sharing. There are now 2 major services - Traficar and Panek (Citybee is more specialized). They both offer the same service, but unfortunately, they both have their app. So when we want to see the location of the closest available car nearby, we must open both of the applications, compare the options and afterwards book the car using their app. On the top of that, you also need to register at the service, which is not the hardest thing to do, but it does take some time to do it (scan of driving license, registration payment, confirmation etc.). Even though it’s just once. The same goes also for the e-scooter, where are even more services. And just imagine, what to do, if you don’t know, whether to use car-sharing, e-scooter or bike. 
 
@@ -55,17 +55,23 @@ It’s true, there are now some services, which are trying to be *MaaS alike*, b
 
 The first one is [Jakdojade](https://jakdojade.pl/), which works as a *route planner for public transportation*. It shows actual timetables with delays and which line or mode to take (tram/bus). It also suggests the shortest way how to reach on foot the closest bus/tram stop or how to reach the end destination from the last bus/tram stop with an approximate time. Such a service works well, but private transport is just one out of many available options in Cracow.
 
-The second one, [Wheelme](https://wheelme.app/), is going a bit further, but it’s still not what the MaaS is about. Currently, the app is displaying at one place **all the available** car/bike/ecooter/moped sharing services. With Wheelmee, we are just one click away from knowing where is the closest bike/car etc. free to use and with additional information about prices. Unfortunately, this is all, what the app could currently do. Once we want to navigate to the picked mode of transport, it will redirect us to apple/google maps etc. The same goes also for booking the chosen transport mode. The app will just redirect us to the original app of the provider, which you must have installed and be registered in the service, in case of using it. Another disadvantage is not showing the available options of public transport and missing route planer. Such a feature will improve the application.
+The second one, [Wheelme](https://wheelme.app/), is going a bit further, but it’s still not what the MaaS is about. Currently, the app is displaying at one place **all the available** car/bike/ecooter/moped sharing services. With Wheelmee, we are just one click away from knowing where is the closest bike/car etc. free to use and with additional information about prices. Unfortunately, this is all, what the app could currently do. Even though, Wheelme could navigates to the closest mode of transport as well as to book it, after tapping the button the app will redirect the user in case of navigation to apple/google map or in case of booking to the original app of the provider of the service (which must be installed and the user registered). Integration those steps, which are now the crucial disadvantages, would improve the application.
 
 ## 3. Incentives from the city
 
 We already know, there are 3 pillars which underpin the MaaS - **offer of various transport modes and services**, **available data and technology** and **the will or action of local government**  to push it all together. It is now important to understand the official statement of the city council and planning authorities from Cracow.
 
-- Do they know about Mobility as a Service concept?
+- Do the authorities know how many and which kind of transport modes and services operate in the city?
+- Are there any plans to integrate such modes and services?
+- What are the pros and cons of nowadays state of transport system in Cracow?
+- Could the integration of transport modes and service improve the quality of transport system in the city?
+- Do the authorities know about Mobility as a Service concept?
+- Are they aware of the idea which underpin the MaaS concept?
 - Is there any ongoing debate in regards to MaaS potential and application in the city?
 - How does such a debate look like? 
 - Who is a part of this debate?
-- To which extent is Cracow now prepared to start with the MaaS implementation?
+- To which extent is Cracow now prepared or willing to start with the MaaS implementation?
+- Who could be responsible in doing that?
 - Is MaaS part of broader vision and strategy of not only the urban/transport development within the Cracow metropolitan area or superior vision of urban/transport development in Poland?
 
 Those are one out of many crucial questions which have to be addressed at this place.
@@ -89,13 +95,15 @@ One might already argue, ***why*** should the local government pay the attention
 
 It’s true, there are many transport services and modes from which residents and visitors could benefit from. The ongoing form is, as I showed you, in contrary, how nowadays smart solutions could work. Next to it, there is a consensus *(see Krakow development strategy)* on what are the main weaknesses and threads of nowadays mobility configuration. For example, the lack of integration of transport systems in Cracow metropolitan area, a general increase in traffic flows in the city centre together with lack of effective legal tools which would restrict private cars to enter the city centre. MaaS application thus offers a modern solution, which could partially address mentioned transportation-related problems and shift weaknesses and threads into strengths. In my opinion, it’s necessary to bring together all different actors from transportation services in Cracow under one roof and try to make something useful out of it. Useful not only for the different providers of transportation services but also for the city and public.
 
-At this time (December of 2019), the city council is discussing the new city [budget](https://www.bip.krakow.pl/_inc/rada/posiedzenia/show_pdfdoc.php?id=110032) for the upcoming year. Even though the budget is still an object of a discussion and will be officially accepted on 18th of December, glimpse look into it could give us a picture of what investments (and strategy) is city going to support at 2020. Focusing on transport, all investments go to infrastructure mainly for cars, but also trams (new line), non-motorized means of transport and city informational system. Even so, the finances allocated for transport investments account for almost half of the budget, unfortunately, an investment action, which would get the city closer to its ***smart moblity objective*** did not get on the paper.
+At this time (December of 2019), the city council is discussing the new city [budget](https://www.bip.krakow.pl/_inc/rada/posiedzenia/show_pdfdoc.php?id=110032) for the upcoming year. Even though the budget is still an object of a discussion and will be officially accepted on 18th of December, a quick look into it could give us a picture of what investments (and strategy) is city going to support at 2020. Focusing on transport, all investments go to infrastructure mainly for cars, but also trams (new line), non-motorized means of transport and city informational system. Even so, the finances allocated for transport investments account for almost half of the budget. Unfortunately, an investment action, which would get the city closer to its ***smart moblity objective*** did not get on the paper.
 
 > you could find the original document of the budget [here](https://www.bip.krakow.pl/_inc/rada/posiedzenia/show_pdfdoc.php?id=110032) or you could check the overview at [lovekrakow.pl](https://lovekrakow.pl/aktualnosci/jakie-inwestycje-beda-realizowane-w-2020-roku-lista_33042.html)
 
-Cracow local government should initiate a debate over the MaaS application and what is more important, the local government should already from the begining put themself into the position as a moderator of the whole MaaS ecosystem. Such a position is crucial for the city planning authorities, while the key competencies of such a moderator lie in:
+Cracow authorities should initiate a debate over the MaaS application and what is more important, the local government should already put themself into the position as a moderator of the whole MaaS ecosystem from the very beginning. Such a position is crucial for the city planning authorities, as the key competencies of such a moderator lie in:
 
-- explaining the **vision** 
+- explaining the **vision**
+- what are the problems of Cracow
+- MaaS as a possible solution of the transport related problems
 - setting **the rules** for the MaaS providers
 - defining **which actors** are going to be included in the MaaS project, as well as **their power and position** within the network
 
@@ -107,6 +115,6 @@ For example, creating a working and healthy legal framework will prevent issues 
 
 ## Critical Juncture
 
-Cracow is now at a juncture, where the city planning authorities should decide whether to give MaaS green light or let the “issue” solve itself. There are several steps, which need to be taken to have the final product ready to use, and some of them are rather complex and complicated. However, the ongoing situation signals, the shift from ownership to usership mobility model is already on the way. One must ask, why not to take action in supporting such a trend providing innovative and smart transportation service.
+Cracow is now at a juncture, where the city planning authorities should decide whether to give MaaS green light or let the “issue” solve itself. There are several steps, which need to be taken to have the final product ready to use, and some of them are rather complex and complicated. However, the ongoing situation signals the shift from ownership to usership mobility model is already on the way. One must ask, why not to take action in supporting such a trend providing innovative and smart transportation service.
 
 

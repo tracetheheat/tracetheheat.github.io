@@ -7,19 +7,19 @@ categories: mobility
 
 > In this post, I'm going to introduce you the concept of Mobility as a Service
 
-Given the fact, the urban population is steadily growing while more people want to live in the cities (check out, for example, [this interactive projection](https://www.unicef.org/sowc2012/urbanmap/) made by Unicef), there are also growing expectations towards how life in urban areas should be organized. Urban planners and city authorities thus face many problems, like housing stock, quality of the environment or transportation network and infrastructure.
+Given the fact, that the urban population is steadily growing as more people want to live in the cities (check out, for example, [this interactive projection](https://www.unicef.org/sowc2012/urbanmap/) made by Unicef), there are also growing expectations towards how life in urban areas should be organized. Urban planners and city authorities thus face many problems, like housing stock, quality of the environment or transportation network and infrastructure.
 
 As a response, there is an emerging shift in urban planning practices to implement such policies and measurements, which could be labelled as a “smart” or “intelligent”, which addresses the problems and aiming to make the cities more livable. ***Mobility as a Service*** (MaaS) is one of them and besides it sounds cool, it could be in my opinion working solution for many transportation-related problems. The main questions now are, if the cities to show the will and are prepared to integrate such a concept. Before addressing that question, let’s go to see what ***Mobility as a Service*** means.
 
 ## What is MaaS? 
 
-Mobility as a Service is a new concept or an idea in mobility research, which emerged as a reaction to new travel behaviour, development in technology and is connecting all available means of transport and services into one. We could imagine it as an **integrated platform combining public, private and shared means of transportation** with just a phone in a pocket. From buses and trains, through carpooling services to shared bikes, scooters and cars with up to date information about the traffic situation on the road or the fastest way how to reach our final destination.
+Mobility as a Service is a new concept or an idea in mobility research, which emerged as a reaction to new travel behaviour, development in technology and is connecting all available means of transport and services into one. We could imagine it as an **integrated platform combining public, private and shared means of transportation** with just a phone in a pocket. From buses and trains, through carpooling services to shared bikes, scooters and cars with up to date information about the traffic situation on the road or the fastest way how to reach our destination.
 
 {% include image.html url="/images/maas.png" caption="" align="center" %}
 
 The platform, which would help you to get where you want, choosing the best for you.
 
-- *Do you prefer to have the least ecological footprint, but your work is too far to walk and you don’t own a bike? Let’s check where the closest bike or scooter to share is and go.* 
+- *Do you prefer to leave the least ecological footprint, but your work is too far to walk and you don’t own a bike? Let’s check where the closest bike or scooter to share is and go.* 
 - *Tired with not having coins to buy a ticket? Let’s buy it through the app.* 
 - *Do you prefer privacy, but parking your private vehicle is impossible in the city centre? Let’s use carpooling or find the nearest free carsharing services.*
 - *Not sure, whether the routes are empty?…. you get it, right.*
@@ -42,7 +42,7 @@ all pulled together thanks to
 
 **3. incentives and will from the city planning authorities** (e.g. legal framework)
 
-Of course, the city should have also developed infrastructure to accommodate all prevailing and newly emerged mode of transport. Qualite infrastructure is a must, while it could well enhance ongoing changes as the opposite, but this is the debate for another post. Mentioned three points are in my opinion the essentials.
+Of course, the city should have also developed infrastructure to accommodate all prevailing and newly emerging mode of transport. Quality infrastructure is a must, while it could well enhance ongoing changes as the opposite, but this is the debate for another post. Mentioned three points are in my opinion the essentials.
 
 {% include image.html url="/images/modes.png" caption="https://unsplash.com/@daniel_von_appen" align="center" %}
 
@@ -52,6 +52,6 @@ One example could be [**Whim**](https://whimapp.com/). Whim is a MaaS service fr
 
 > Some other (not all) MaaS examples: [Tim](https://www.tim-oesterreich.at/graz/) (Graz, Austria), [WienMobile](https://www.wienerlinien.at/eportal3/ep/channelView.do/pageTypeId/66533/channelId/-3600061) (Vienna, Austria), [Ubigo](https://www.ubigo.me/en/home) (Stockholm, Sweeden), [Kyyti](https://www.kyyti.com/) (Finland), [Moovel](https://www.moovel.com/en) (Germany)[, Switch](https://www.switchh.de/hochbahn/hamburg/switchh/homepage) (Hamburg), [Mobilitéits Zentral](https://www.mobiliteit.lu/en/) (Luxembourg), [Communato](https://www.communauto.com/) (Quebeck, Canada), [Beeline](https://www.beeline.sg/) (Singapur) or [Transit](https://transitapp.com/region) (which actuallyvserves in 219 cities, 10 countries and 4 continents),…
 
-Undoubtedly, there is a new dynamic in travel behaviour across many cities, resulting in a shift from the ownership-based model to the acces-based model. Mobility as a Service has thus a potential to not only accommodate this dynamic but also to motivate citizens to rethink their day-to-day travel patterns. New modes and services of transportation, such as car-sharing, e-bikes and others, are nowadays the key competitor to the traditional ones, especially private cars. It’s now up to each municipality to take the action in connecting different stakeholders to deliver a service, which will be beneficial for all of us.
+Undoubtedly, there is a new dynamic in travel behaviour across many cities, resulting in a shift from the ownership-based model to the access-based model. Mobility as a Service has thus a potential to not only accommodate this dynamic but also to motivate citizens to rethink their day-to-day travel patterns. New modes and services of transportation, such as car-sharing, e-bikes and others, are nowadays the key competitor to the traditional ones, especially private cars. It’s now up to each municipality to take the action in connecting different stakeholders to deliver a service, which will be beneficial for all of us.
 
 In the next post, we are going to **explore the possibility of MaaS application in Cracow**, where I currently live.
