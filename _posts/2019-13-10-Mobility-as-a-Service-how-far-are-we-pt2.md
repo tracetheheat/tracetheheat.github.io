@@ -6,7 +6,7 @@ categories: mobility
 ---
 > the second part of the Mobility as a Service, Cracow case study
 
-In my previous post **Mobility as a Service pt.1**, I'm giving you the basics of the concept, together with the examples of the service in action. This post covers the possibilities of **MaaS** application in *Cracow*. The main aim is to uncover the potential of the city to implement such a service.
+In my previous post [**Mobility as a Service pt.1**](http://straubd.me/blog/2019/12/mobility/Mobility-as-a-Service-how-far-are-we-pt1), I'm giving you the basics of the concept, together with the examples of the service in action. This post covers the possibilities of **MaaS** application in *Cracow*. The main aim is to uncover the potential of the city to implement such a service.
 
 In doing so, I'm focusing on the 3 core aspects of the MaaS platform, which are
 

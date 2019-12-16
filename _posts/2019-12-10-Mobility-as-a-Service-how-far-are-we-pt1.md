@@ -54,4 +54,4 @@ One example could be [**Whim**](https://whimapp.com/). Whim is a MaaS service fr
 
 Undoubtedly, there is a new dynamic in travel behaviour across many cities, resulting in a shift from the ownership-based model to the access-based model. Mobility as a Service has thus a potential to not only accommodate this dynamic but also to motivate citizens to rethink their day-to-day travel patterns. New modes and services of transportation, such as car-sharing, e-bikes and others, are nowadays the key competitor to the traditional ones, especially private cars. It’s now up to each municipality to take the action in connecting different stakeholders to deliver a service, which will be beneficial for all of us.
 
-In the next post, we are going to **explore the possibility of MaaS application in Cracow**, where I currently live.
+In the [next post](http://straubd.me/blog/2019/12/mobility/Mobility-as-a-Service-how-far-are-we-pt2), we are going to **explore the possibility of MaaS application in Cracow**, where I currently live.
