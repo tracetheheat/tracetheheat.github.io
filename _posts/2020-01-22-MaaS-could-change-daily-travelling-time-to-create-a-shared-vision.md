@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "MaaS could change daily travelling - time to create a shared vision."
+title:  "MaaS could change daily travelling - time to create a shared vision"
 date:   2020-01-22 15:36:27
 categories: mobility
 ---
-> this is and English version of the post on MaaS, and it's potential in Cracow; initially written for (Observatorium Politiky Miejskies)[http://obserwatorium.miasta.pl/] (Urban Policy Observatory)
+> this is and English version of the post on MaaS, and it's potential in Cracow; initially written for [Observatorium Politiky Miejskies](http://obserwatorium.miasta.pl/) (Urban Policy Observatory)
 
-> Yes, it is a sum-up of my two (previous)[http://straubd.me/blog/2019/12/mobility/Mobility-as-a-Service-how-far-are-we-pt1] (posts) [http://straubd.me/blog/2019/12/mobility/Mobility-as-a-Service-how-far-are-we-pt2] on MaaS
+> Yes, it is a sum-up of my two [previous](http://straubd.me/blog/2019/12/mobility/Mobility-as-a-Service-how-far-are-we-pt1) [posts] (http://straubd.me/blog/2019/12/mobility/Mobility-as-a-Service-how-far-are-we-pt2) on MaaS
 
 There are at this moment more than 20 transportation modes & services available in Cracow which is an excellent asset for the variability of Cracows transportation system but makes it difficult for the end-user to compare and find the best solution.
 
@@ -30,7 +30,7 @@ Mobility as a Service (MaaS) is a new concept in mobility research, which addres
 
 The core idea does not lie in choosing the best for the user, but presenting the actual offer in regards to many variables, such as time, distance, price, comfort, personal attitudes, ecological footprint, availability of parking lots or current traffic situation. In the end, it is the user who is going to decide and tap which option to choose. Essential is, the whole decision-making process is smoothened and taking place in one environment, instead of switching from one to another. On top of that, the MaaS has the potential to accommodate new trends in travel behaviour and promote more environment-friendly means of transportation, which is at those time important aspect not only for the policy-makers.
 
-Naturally, various MaaS projects differ between each other in terms of its complexity. While some of them allow to only search for available transport modes and services, others are a full guide in daily commuting, taking care of everything. Searching, booking, paying. One example could be (Whim)[https://whimapp.com/]. The MaaS service from Helsinky, which covers public transport, taxis, car and bike-sharing and regional trains with pay-as-you-go, or three different subscription plans. Unlike Italian (My Cicero)[http://www.mycicero.eu/], which has an only pay-per-use option, but besides all the transport modes and services, as in Helsinki, it shows available parking spaces or offers to buy a permit to enter the urban congestion zone.
+Naturally, various MaaS projects differ between each other in terms of its complexity. While some of them allow to only search for available transport modes and services, others are a full guide in daily commuting, taking care of everything. Searching, booking, paying. One example could be [Whim](https://whimapp.com/). The MaaS service from Helsinky, which covers public transport, taxis, car and bike-sharing and regional trains with pay-as-you-go, or three different subscription plans. Unlike Italian [My Cicero](http://www.mycicero.eu/), which has an only pay-per-use option, but besides all the transport modes and services, as in Helsinki, it shows available parking spaces or offers to buy a permit to enter the urban congestion zone.
 
 ## Where to go now?
 
