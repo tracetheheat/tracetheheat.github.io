@@ -40,7 +40,7 @@ We don't need to invent public transport from scratch once again. Currently, the
 
 Another fast improvement is shortening the onboarding time by allowing passengers to get on and off by using all of the doors. Although it might sound apparent, there are plenty of services, which enables passengers to get in only by using the front doors.
 
-The pricing policy is then another tool which might be used to increase ridership. Actually, no pricing policy by launching the service for free for the users. There is an ongoing debate on [public transport can be free](https://www.jacobinmag.com/2018/08/public-transportation-brussels-free-tickets) or not. What is sure from the discussion, that it immediately results in an increased volume of passengers.
+The pricing policy is then another tool which might be used to increase ridership. Actually, no pricing policy by launching the service for free for the users. There is an ongoing debate wheter [public transport can be free](https://www.jacobinmag.com/2018/08/public-transportation-brussels-free-tickets) or not. What is sure from the discussion, that it immediately results in an increased volume of passengers.
 
 Then we have a modern fleet with chargers, wifi on the board, on-time information system, better payment options and we could go on and on. Nevertheless, we have to bear in mind that none of them makes sense if public transport isn't reliable, easily accessible and frequent.
 
