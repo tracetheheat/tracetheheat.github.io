@@ -2,7 +2,7 @@
 layout: post
 title:  "Redefining public transport"
 date:   2020-02-25 15:36:27
-categories: public transport
+categories: "public transport"
 ---
 Autonomous cars and hyperloop might sound like the way to go in the future, but are we really that far?
 

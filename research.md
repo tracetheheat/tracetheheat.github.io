@@ -13,8 +13,8 @@ I'm interested in travel behaviour, mobility and transport policies. Especially 
 
 ## Popular
 
-* _"MaaS could change daily travelling - time to create a shared vision_" - op-ed post written for [Observatorium Politiky Miejskiej](http://obserwatorium.miasta.pl/) (Urban Policy Observatory), [original](http://obserwatorium.miasta.pl/wiele-srodkow-transportu-jeden-system-czym-jest-mobility-as-a-service/) article (Polish) and [English](http://straubd.me/blog/2020/01/mobility/MaaS-could-change-daily-travelling-time-to-create-a-shared-vision) version
+* _"MaaS could change daily travelling - time to create a shared vision_" - op-ed post written for [Observatorium Politiky Miejskiej](http://obserwatorium.miasta.pl/) (Urban Policy Observatory), [original](http://obserwatorium.miasta.pl/wiele-srodkow-transportu-jeden-system-czym-jest-mobility-as-a-service/) article (Polish) and [English](http://straubd.me/blog/2020/01/mobility/MaaS-could-change-daily-travelling-time-to-create-a-shared-vision) version 
 
-* _"Sometimes, inovations are born in the suburbs,"_ - opinion post about [free-fare public transport](https://apolitical.co/solution_article/how-a-sleepy-czech-town-became-a-public-transport-pioneer/) in Frýdek-Místek for [Apolitical](https://apolitical.co/home)
+* _"Sometimes, inovations are born in the suburbs,"_ - opinion post about [free-fare public transport](https://apolitical.co/solution_article/how-a-sleepy-czech-town-became-a-public-transport-pioneer/) in Frýdek-Místek for [Apolitical](https://apolitical.co/home) 
 
 * guest post at [Free Fare Public Transport](https://freepublictransport.info) blog about &#128652; free public transport in [Frýdek Místek](https://freepublictransport.info/2019/03/12/free-fare-public-transport-policy-study-case-frydek-mistek/)
