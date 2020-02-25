@@ -26,7 +26,7 @@ If the private and public sector is willing to invest in new technologies, why c
 
 ## Prioritising
 
-According to a research review on quality attributes of public transport that attract car users (see [Redman et al.](https://www.sciencedirect.com/science/article/abs/pii/S0967070X12001692?via%3Dihub)), price, frequency and reliability play the crucial part in motivating not only the car users, to shift to public transport. Even though the price still dominates in attracting the potential users, the study highlight, that the frequency, accessibility and reliability are essential too.
+According to a research review on quality attributes of public transport that attract car users (see [Redman et al. 2013](https://www.sciencedirect.com/science/article/abs/pii/S0967070X12001692?via%3Dihub)), price, frequency and reliability play the crucial part in motivating not only the car users, to shift to public transport. Even though the price still dominates in attracting the potential users, the study highlight, that the frequency, accessibility and reliability are essential too.
 
 Who is going to take a bus, which goes once an hour or poorly connects the city districts, right?
 
