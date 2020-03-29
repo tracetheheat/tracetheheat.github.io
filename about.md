@@ -13,4 +13,4 @@ I'm a devoted runner. I do running a lot. I'm mainly focusing on marathon distan
 
 **You still here?** 
 
-Feel free to check my [blog](blog.md) &#9749; where I write about stuff related to my research or whatever cross my mind.
+Feel free to check my [blog](blog.md) &#9749; where I reflect on what's conneced with my research or in case you are a book worm, head out to my <a href="https://paper.dropbox.com/doc/Books-calling--AxGBjvm2B~M7KZafJ6Px5sDHAQ-eCinMFCsXhQRFxiI3QBAH">book's calling!</a>
