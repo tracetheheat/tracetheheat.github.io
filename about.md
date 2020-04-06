@@ -9,7 +9,7 @@ permalink: /about/
 I'm a devoted runner. I do running a lot. I'm mainly focusing on marathon distances, where I've recently got under 3 hours. I know it's not as outstanding as Eliud Kipchoge or Kenenisa Bekele, but it's enough to refresh my mind. If you like running too, you might take a look on my [running blog](https://www.tracetheheat.com) or just follow me on [Strava](https://www.strava.com/athletes/straubd) &#127939;
 
 
-{% include image.html url="/images/me2.png" caption="" width=180 align="center" %}
+{% include image.html url="/images/me3.png" caption="" width=180 align="center" %}
 
 **You still here?** 
 
