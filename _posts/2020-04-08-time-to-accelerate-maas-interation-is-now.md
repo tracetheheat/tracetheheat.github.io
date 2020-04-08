@@ -4,6 +4,8 @@ title:  "Time to accelerate the MaaS integration is now!"
 date:   2020-04-09 15:36:27
 categories: ['mobility']
 ---
+**COVID-19 is changing systematically and fast pace, changing the daily travel agenda. Could it reshape the future of the mobility business?**
+
 > This is and English version of the [post on MaaS and its response to covid-19](http://obserwatorium.miasta.pl/maasa-forma-czas-na-zdecydowane-dzialania/?fbclid=IwAR3qKlRuUPxWr_EZBQfGY8mYb78gGLpXhxinyRkcOSei3gOHsoii4eBgh_4) in Poland; initially written for [Observatorium Politiky Miejskiej](http://obserwatorium.miasta.pl/) (Urban Policy Observatory)
 
 Not tha long time ago in the post called [*Redefining public transport*](http://straubd.me/blog/2020/02/public%20transport/Redefining-public-transport) I was questioning the role of new mobility-shared services in the future of our transport.
