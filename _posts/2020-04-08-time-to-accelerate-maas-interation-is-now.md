@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Time to accelweate the MaaS integration is now!"
+title:  "Time to accelerate the MaaS integration is now!"
 date:   2020-04-09 15:36:27
 categories: ['mobility']
 ---
