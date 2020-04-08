@@ -13,6 +13,8 @@ I'm interested in travel behaviour, mobility and transport policies. Especially 
 
 ## Popular
 
+* _"Time to accelerate the MaaS integration is now!"_ - op-ed post for [Observatorium Politiky Miejskiej](http://obserwatorium.miasta.pl/) (Urban Policy Observatory); original [Polish version](http://obserwatorium.miasta.pl/maasa-forma-czas-na-zdecydowane-dzialania/?fbclid=IwAR3qKlRuUPxWr_EZBQfGY8mYb78gGLpXhxinyRkcOSei3gOHsoii4eBgh_4) of the post and [here](http://straubd.me/blog/2020/04/mobility/time-to-accelerate-maas-interation-is-now) English
+
 * _"MaaS could change daily travelling - time to create a shared vision_" - op-ed post written for [Observatorium Politiky Miejskiej](http://obserwatorium.miasta.pl/) (Urban Policy Observatory), [original](http://obserwatorium.miasta.pl/wiele-srodkow-transportu-jeden-system-czym-jest-mobility-as-a-service/) article (Polish) and [English](http://straubd.me/blog/2020/01/mobility/MaaS-could-change-daily-travelling-time-to-create-a-shared-vision) version 
 
 * _"Sometimes, inovations are born in the suburbs,"_ - opinion post about [free-fare public transport](https://apolitical.co/solution_article/how-a-sleepy-czech-town-became-a-public-transport-pioneer/) in Frýdek-Místek for [Apolitical](https://apolitical.co/home) 
