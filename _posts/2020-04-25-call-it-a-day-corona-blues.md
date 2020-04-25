@@ -22,11 +22,11 @@ What used to be public space in front of the bank, post-office or small shops wi
 
 What I miss during lockdown is my daily bike commute to campus. I like to observe the morning rush or being glad I'm not stuck in the traffic congestion or crowded tram. When coming back from the office, it's just a perfect way how to switch from the to-dos to leisure.
 
-{% include image.html url="/images/commute2.png" caption="ph by me, hexar af" align="center" %}
+{% include image.html url="/images/commute2.jpg" caption="ph by me, hexar af" align="center" %}
 
 Now, I'm switching off by closing the door from the library, and I'm never going there until the next day. Sometimes I only take a laptop when I want to read something in the evening. In general, I'm not trying to work in the evening. And it's because I'm usually tired and not as productive as in the morning so there is no sense in hurting myself. Unless I'm hitting some due date which I've forgotten. So if possible, it's really essential to have some only work-related place. The mine looks like that now, and the sunlighting is being the best indicator of the daytime.
 
-{% include image.html url="/images/commute3.png" caption="ph by me, hexar af" align="center" %}
+{% include image.html url="/images/commute3.jpg" caption="ph by me, hexar af" align="center" %}
 
 So besides the commuting, being outside of the city and having virtual classes, everything is going the same. Virtual-classes are particular chapter. Quite challenging at first, but now I think I've got used to it. In general, I like them. But only in case, people join to share and say something and not to just act like "let's discuss something importing" sort of mumbling. Once the campus is re-opened, I would like to see an option, whether to take the course in class or virtual. Sure, loss of the personal contact might be at the beginning bad for the dynamic in the discussion. Still, I believe, when a small group, we could get over it. The time saved on eliminating the little talks and increased productivity due to solving only what's matter might make us re-evaluate our relationship to distance learning.
 
