@@ -10,4 +10,4 @@ It's part of my ongoing research on this topic, which covers mainly the first mo
 
 So see you soon with another policy paper!
 
-<iframe src="https://drive.google.com/file/d/1_bhdoq6hI3UKKnBYV_42rV67-gI1rQ92/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1_bhdoq6hI3UKKnBYV_42rV67-gI1rQ92/preview" width="640" height="670"></iframe>
