@@ -14,7 +14,6 @@ And if so, will public authorities throughout the world going to accommodate thi
 
 In Cracow, the public authorities have decided, similarly like in [London, Berlin, Bogota and many others, to support the active means of travelling](https://www.sciencedirect.com/science/article/pii/S2590198220300324?via%3Dihub). Even though the plans are not as radical as in other cases, the fact that in some streets there is now less space for cars and more space for cyclists is just driving people crazy. In particular, on the internet, where both the groups are trying to have the last words on who is right. 
 
-
 > I recommend you to read this viewpoint [**The effect of COVID-19 and subsequent social distancing on travel behavior**](https://www.sciencedirect.com/science/article/pii/S2590198220300324?via%3Dihub) written by Jonas de Vos published in Transportation Research Interdisciplinary Perspectives journal
 
 I'm not here writing this to support nor defence one of the group. Sad is that instead of investing our energy to re-create our cities, we are wasting it in a fight to protect our comfort.
@@ -29,8 +28,4 @@ The problem naturally arises when we have to draw the line and say where and whi
 
 Cycling is nowadays getting more and more popular. Why is it thus for certain groups hard to understand its advantages for daily commuting?
 
-We might have hope there would be enough bike lanes and pedestrians one day. But maybe more crucial is to wish our society would learn how to communicate with each other. 
-
-{% include image.html url="/images/rwr.png" caption=" credit to jakdosciany.tumblr.com align="center" %}
-
-
+We might have hope there would be enough bike lanes and pedestrians one day. But maybe more crucial is to wish our society would learn how to communicate with each other.
