@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Will cycling be the new normal?"
-date:   2020-02-25 15:36:27
+date:   2020-06-05 15:36:27
 categories: ['mobility']
 ---
 In this short post, I'm going to react to [***the New York Times article - Thinking of Buying a Bike? Get Ready for a Very Long Wait***](https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/18/nyregion/bike-shortage-coronavirus.amp.html)
