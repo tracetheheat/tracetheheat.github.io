@@ -31,6 +31,6 @@ Cycling is nowadays getting more and more popular. Why is it thus for certain gr
 
 We might have hope there would be enough bike lanes and pedestrians one day. But maybe more crucial is to wish our society would learn how to communicate with each other. 
 
-{% include image.html url="/images/rwr.png" caption="ph by jakdosciany.tumblr.com align="center" %}
+{% include image.html url="/images/rwr.png" caption=" credit to jakdosciany.tumblr.com align="center" %}
 
 
