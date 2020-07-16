@@ -6,6 +6,8 @@ permalink: /research/
 
 I'm interested in travel behaviour, mobility and transport policies. Especially free fare public transport policy, where I'm exploring the impact of the policy on travel behaviour and borader socio-spatial and environmental dynamics of the policy.
 
+ALso, I write about contemporary mobility research for <a href="https://www.czechsight.cz/author/straubd/">CZECHSIGHT!</a>
+
 ## Publications
 ŠTRAUB, D. (2019): Riding without a ticket: Geography of free fare public transport policy in Poland. Urban Development Issues, 64, 17-27. DOI: [10.2478/udi-2019-0020](https://doi.org/10.2478/udi-2019-0020) 
 
