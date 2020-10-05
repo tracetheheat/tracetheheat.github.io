@@ -10,7 +10,7 @@ Zero-inbox technique, or rather "philosophy", is one of the possible approaches 
 
 First important note. Zero-inbox IS NOT about having *no new emails or empty email*. In this case, one would be fully occupied by continually checking the email and quickly responding to incoming inquires. This is unrealistic and unsustainable for the long-term horizon.
 
-Rather than that, the zero-inbox approach assumes that checking up on an email is a source of stress and distraction. Zero-inbox is thus trying to make our daily interaction with email less stressful without taking up much of our attention by automating the email work-flow.
+Rather than that, **the zero-inbox approach assumes that checking up on an email is a source of stress and distraction.** Zero-inbox is thus trying to make our daily interaction with email less stressful without taking up much of our attention by automating the email work-flow.
 
 This is what Merlin Mann, a writer who as a first came up with the zero-inbox idea, wrote about it:
 
@@ -18,7 +18,7 @@ This is what Merlin Mann, a writer who as a first came up with the zero-inbox id
 
 Merlin Manns "Reclaim your email, attention and your life" is the same as Cal Newports "The key to living well in a high tech world is to spend much less time using technology." Mann indeed rang the bell back in 2007 by highlighting the potential downsides of technologies which require one's attention. The topic which is just perfectly covered by Cal Newport.
 
-And what are the concrete steps of zero-inbox?
+**And what are the concrete steps of zero-inbox?**
 
 Unfortunately, there is not any list of actions you should follow. As mentioned above, zero-inbox is an attitude or state of mind. The ultimate aim is that the inbox is not a source of stress.
 
@@ -28,17 +28,17 @@ But you could quickly reduce the stress by keeping the track on what is going on
 
 This is what helps me to be the master of my inbox.
 
-No notifications! No sounds! No pop-up banners and no red icons!
+**No notifications! No sounds! No pop-up banners and no red icons!**
 
-Also, try to not having an email in the web-browser because even without the notification, you might want to feel the desire to check it out. The critical point of this is to be going into an email only when you want to. I'm usually checking the email within the first 10-15 minutes I'm at the office. To just see what is there and be sure nothing urgent require some action. Afterwards, I'm usually checking the email after lunch and within the last 30 minutes before going home. This simple trick minimizes the time spent on distractions while shifting between different tasks.
+Also, try to **not having an email in the web-browser** because even without the notification, you might want to feel the desire to check it out. The critical point of this is to be going into an email only when you want to. I'm usually checking the email within the first 10-15 minutes I'm at the office. To just see what is there and be sure nothing urgent require some action. Afterwards, I'm usually checking the email after lunch and within the last 30 minutes before going home. This simple trick minimizes the time spent on distractions while shifting between different tasks.
 
-Another important trick is that I'm never subscribing to newsletters. If I want to be up-to-date with my favourite blogs or writers, I'm using services like FeedBro. Without newsletters, it is easy to navigate through the inbox. And that is what matters. 
+Another important trick is that **I'm never subscribing to newsletters.** If I want to be up-to-date with my favourite blogs or writers, I'm using services like FeedBro. Without newsletters, it is easy to navigate through the inbox. And that is what matters. 
 
 {% include image.html url="/images/email.png" caption="ph by unsplash.com/@hostreviews" align="center" %}
 
 Unfortunately, there are some emails which will end up in your inbox, and you can not unsubscribe them (even though sometimes I wish I could). In my case, those emails include the university, faculty, department mailing list. The advantage is that you could usually within the second identify, whether it is crucial for you and if it requires some action. If not – delete.
 
-And if it does, then what?
+**And if it does, then what?**
 
 Well, firstly, it is good to be familiar with the content. Which should also be applied for all the other emails. Afterwards, there are 2 or 3 ways of actions.
 
