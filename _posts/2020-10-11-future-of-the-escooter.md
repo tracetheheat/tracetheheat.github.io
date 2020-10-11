@@ -6,13 +6,13 @@ categories: ['mobility']
 ---
 E-scooter sharing schemes are gaining popularity throughout the various cities around the globe over the last years. However, their popularity, which is based on the development of the sharing economy triggered by technological innovations, is twofold.
 
-> Check out this [map of free floating micro-mobility sharing schemes](https://maphub.net/Augustin/micro) made by Augustin Friedel
+> Check out this [map of free floating micro-mobility sharing schemes](https://maphub.net/Augustin/micro) made by Augustin Friedel.
 
 On the one hand, the e-scooter represent convenient, individual, flexible and pro-ecological means of transport. An attractive alternative to the car is thus by many city planning authorities perceived as an essential tool of transition towards sustainable mobility development.
 
 On the other hand, besides its proclaimed advantages, the e-scooter sharing schemes are a source of new challenges many municipalities across the world have to deal with.
 
-> For more, head out to [Governing Micro-Mobility: A Nationwide Assessment of Electric Scooter Regulations](https://trid.trb.org/view/1572811) by Anderson-Hall et al. (2019) or [The Promise and Pitfalls of E-Scooter Sharing](https://www.bcg.com/publications/2019/promise-pitfalls-e-scooter-sharing) by Schellong et al. (2019)
+> For more, head out to [Governing Micro-Mobility: A Nationwide Assessment of Electric Scooter Regulations](https://trid.trb.org/view/1572811) by Anderson-Hall et al. (2019) or [The Promise and Pitfalls of E-Scooter Sharing](https://www.bcg.com/publications/2019/promise-pitfalls-e-scooter-sharing) by Schellong et al. (2019).
 
 - How to define the new legislative norms?
 - How to secure the safety of pedestrians, cyclist, car-drivers and users of e-scooters?
