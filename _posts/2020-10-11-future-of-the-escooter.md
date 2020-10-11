@@ -6,7 +6,7 @@ categories: ['mobility']
 ---
 E-scooter sharing schemes are gaining popularity throughout the various cities around the globe over the last years. However, their popularity, which is based on the development of the sharing economy triggered by technological innovations, is twofold.
 
-> Check out this map of free floating micro-mobility sharing chemes made by Augustin Friedel https://maphub.net/Augustin/micro
+> Check out this [map of free floating micro-mobility sharing schemes](https://maphub.net/Augustin/micro) made by Augustin Friedel
 
 On the one hand, the e-scooter represent convenient, individual, flexible and pro-ecological means of transport. An attractive alternative to the car is thus by many city planning authorities perceived as an essential tool of transition towards sustainable mobility development.
 
@@ -19,7 +19,7 @@ On the other hand, besides its proclaimed advantages, the e-scooter sharing sche
 - How to "force" the e-scooter sharing schemes operators to collaborate on creating the conditions so the e-scooters could genuinely enhance sustainable development?
 - How to integrate the micro-mobility sharing systems with existing transport services?
 
-Those are just a few of crucial questions city planning authorities should seek to answer.
+**Those are just a few of crucial questions city planning authorities should seek to answer.**
 
 The London Micromobility Alliance, which represents 17 various sharing micro-mobility services, has issued [an open letter to the British government](https://www.centreforlondon.org/news/london-micromobility-alliance/) asking for support in creating a new legislative framework. This legislative framework should cover not only the current issues like a safety but also the question of sustainability.
 
