@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Future of the e-scooter sharing schemes: examples of various approaches?"
+title:  "Future of the e-scooter sharing schemes: examples of various approaches"
 date:   2020-10-11 15:36:27
 categories: ['mobility']
 ---
