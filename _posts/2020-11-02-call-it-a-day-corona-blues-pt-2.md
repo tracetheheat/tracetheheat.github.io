@@ -31,9 +31,3 @@ And what could we do to challenge this issue?
 Building a community on Facebook groups? Regular off-topic meetings or threads on Slack? Newsletters?
 
 Something clearly has to be done. Having a doctoral ID card and institutional access to scientific publications is just not enough. 
-
-
-
-
-
-{% include image.html url="/images/drinking.jpg" caption="Photo by Alexander Popov, Unsplash" align="center" %}
