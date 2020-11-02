@@ -22,7 +22,7 @@ I'm talking here about building up a sense of community and belongingness, which
 
 For me, the sense of community is crucial as I'm at the new academical institution. With activities going online, I'm having doubts whether I feel so.
 
-On the one hand, I continue with my research, network with colleagues from various places and solving operational struggles. Unfortunately, on the other hand, I feel like I'm representing myself and building "my brand" than the institutional one.
+On the one hand, I continue with my research, network with colleagues from various places and solving operational struggles. Unfortunately, on the other hand, I feel like I'm representing myself and building "my brand" rather than the institutional one.
 
 Is this right? 
 
