@@ -2,7 +2,7 @@
 layout: post
 title:  "Call it a day: corona blues pt.2!"
 date:   2020-11-02 15:36:27
-categories: ['mobility']
+categories: ['journal']
 ---
 The life goes on, and the debates over the best web-conference SW are disappearing in the haze. Similarly, like the disruption of day-to-day routine from early spring. It is all now after half a year the so-called new normal.
 
