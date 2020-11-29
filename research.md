@@ -9,7 +9,7 @@ I'm interested in travel behaviour, mobility and transport policies. Especially 
 Also, I write about contemporary mobility research for <a href="https://www.czechsight.cz/author/straubd/">CZECHSIGHT!</a>
 
 ## Publications
-ŠTRAUB, D., GAJDA, A. (2020): E-scooter sharing schemes operational zones in Poland: dataset on voivodeship capital cities. Data in Brief, DOI: [10.1016/j.dib.2020.106560](https://doi.org/10.1016/j.dib.2020.106560)
+ŠTRAUB, D., GAJDA, A. (2020): E-scooter sharing schemes operational zones in Poland: dataset on voivodeship capital cities. Data in Brief, 33, pp. 1-8. DOI: [10.1016/j.dib.2020.106560](https://doi.org/10.1016/j.dib.2020.106560)
 
 ŠTRAUB, D. (2020): The Effects of Fare-Free Public Transport: A Lesson from Frýdek-Místek (Czechia). Sustainability, 12, 21, pp. 1-15. DOI: [10.3390/su12219111](https://doi.org/10.3390/su12219111)
 
