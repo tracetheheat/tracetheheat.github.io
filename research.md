@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-I'm interested in travel behaviour, mobility and transport policies. Especially free fare public transport policy, where I'm exploring the impact of the policy on travel behaviour and borader socio-spatial and environmental dynamics of the policy.
+I'm focusing on various mobility and transport policies, the mechanisms of their implementations and background of their formulations. Especially the fare-free public transport policy and micromobility shared services.
 
 Also, I write about contemporary mobility research for <a href="https://www.czechsight.cz/author/straubd/">CZECHSIGHT!</a>
 

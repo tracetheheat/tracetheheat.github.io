@@ -2,7 +2,7 @@
 layout: post
 title:  "Future of the e-scooter sharing schemes: examples of various approaches"
 date:   2020-10-11 15:36:27
-categories: ['mobility']
+categories: ['e-scooters']
 ---
 E-scooter sharing schemes are gaining popularity throughout the various cities around the globe over the last years. However, their popularity, which is based on the development of the sharing economy triggered by technological innovations, is twofold.
 
