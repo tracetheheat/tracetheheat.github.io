@@ -6,7 +6,7 @@ permalink: /blog/
 
 Here is my semi-regular blog &#128221;, where I reflect my research or write about stuff which are reletad to my PhD. Eventually other things which cross my mind.
 
-Besides my blog, I'm also a curator of [mobility newsletter] (https://onthemove.substack.com/) **On The Move**
+Besides my blog, I'm also a curator of <a href="https://onthemove.substack.com/">mobility newsletter</a> **On The Move**
 
 *Chronological* order of all blog posts is below and [category page is here](categories.html)
 
