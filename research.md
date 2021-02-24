@@ -6,7 +6,7 @@ permalink: /research/
 
 I'm focusing on various mobility and transport policies, the mechanisms of their implementations and background of their formulations. Especially the fare-free public transport policy and micromobility shared services.
 
-Also, I write about contemporary mobility research for <a href="https://www.czechsight.cz/author/straubd/">CZECHSIGHT!</a>
+Also, I write about contemporary mobility for <a href="https://zdopravy.cz/author/straub/">Zdopravy!</a>
 
 ## Publications
 ŠTRAUB, D., GAJDA, A. (2020): E-scooter sharing schemes operational zones in Poland: dataset on voivodeship capital cities. Data in Brief, 33, pp. 1-8. DOI: [10.1016/j.dib.2020.106560](https://doi.org/10.1016/j.dib.2020.106560)
