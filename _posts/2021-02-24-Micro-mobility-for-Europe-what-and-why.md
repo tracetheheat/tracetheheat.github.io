@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Micro-mobility for Europe – what and why"
-date:   2021-01-28 15:36:27
+date:   2021-02-24 15:36:27
 categories: ['e-scooters']
 ---
 One of my last posts here are dedicated to the new issues raised by the growing popularity of micro-mobility shared schemes. Besides the reflections of the critical problems, I'm also pointing out what should be the essential solution to most of them: the cooperation between the private and public sectors.
