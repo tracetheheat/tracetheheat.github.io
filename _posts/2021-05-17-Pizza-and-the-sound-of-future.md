@@ -22,6 +22,6 @@ It was 16 years later, in 2010, when the pizza added another item – **the firs
 
 Yes. You hear me right. People who place their order at Domino's Pizza in Houston will have their pizza delivered by a robot.
 
-Small and currently [only licensed](https://medium.com/nuro/california-dmv-grants-nuro-first-ever-av-deployment-permit-ca424ebd2) fully automated and electric van developed by [Nuro](https://www.nuro.ai/) will bring you the pizza right in front of your door. Now, it is only a pilot project available at a specific location. Still, as learned in history, this is probably not the blind alley but the direction of our next steps.
+Small and currently [only licensed](https://medium.com/nuro/california-dmv-grants-nuro-first-ever-av-deployment-permit-ca424ebd2) fully autonomous and electric van developed by [Nuro](https://www.nuro.ai/) will bring you the pizza right in front of your door. Now, it is only a pilot project available at a specific location. Still, as learned in history, this is probably not the blind alley but the direction of our next steps.
 
 {% include image.html url="/images/nuro.png" caption="ph credit: nuro.io" align="center" %}
