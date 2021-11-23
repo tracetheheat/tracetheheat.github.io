@@ -9,7 +9,7 @@ I'm focusing on various mobility and transport policies, the mechanisms of their
 Also, I write Fare-free public transport policy newsletter. Join <a href="https://ffpt.substack.com/p/coming-soon?r=4z2ja&utm_campaign=post&utm_medium=web&utm_source=copy"> the list of subscribers!</a>
 
 ## Publications
-ŠTRAUB, D., PISTELOK, P. (2021): Evaluation of the Road Policy in the Light of Vision Zero in Jaworzno, Poland. Sustainability, 13, 6, pp 1-20. DOI: [10.3390/su13168745] (https://doi.org/10.3390/su13168745)
+ŠTRAUB, D., PISTELOK, P. (2021): Evaluation of the Road Policy in the Light of Vision Zero in Jaworzno, Poland. Sustainability, 13, 6, pp 1-20. DOI: [10.3390/su13168745](https://doi.org/10.3390/su13168745)
 
 ŠTRAUB, D., GAJDA, A. (2020): E-scooter sharing schemes operational zones in Poland: dataset on voivodeship capital cities. Data in Brief, 33, pp. 1-8. DOI: [10.1016/j.dib.2020.106560](https://doi.org/10.1016/j.dib.2020.106560)
 
