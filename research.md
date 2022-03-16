@@ -8,18 +8,30 @@ I'm focusing on various mobility and transport policies, the mechanisms of their
 
 Also, I write Fare-free public transport policy newsletter. Join <a href="https://ffpt.substack.com/p/coming-soon?r=4z2ja&utm_campaign=post&utm_medium=web&utm_source=copy"> the list of subscribers!</a>
 
-## Publications
-ŠTRAUB, D., PISTELOK, P. (2021): Evaluation of the Road Policy in the Light of Vision Zero in Jaworzno, Poland. Sustainability, 13, 6, pp 1-20. DOI: [10.3390/su13168745](https://doi.org/10.3390/su13168745)
+# Publications
+## Articles
+Pistelok, P., & Štraub, D. (2022). It is time to get virtual: limitations of shared e-scooter mobility points, case study in Cracow (Poland). Geografie, 127 (1), 1–29. DOI: [10.37040/geografie2022127010001](https://doi.org/10.37040/geografie2022127010001)
 
-ŠTRAUB, D., GAJDA, A. (2020): E-scooter sharing schemes operational zones in Poland: dataset on voivodeship capital cities. Data in Brief, 33, pp. 1-8. DOI: [10.1016/j.dib.2020.106560](https://doi.org/10.1016/j.dib.2020.106560)
+Štraub, D. (2020). The Effects of Fare-Free Public Transport: A Lesson from Frýdek-Místek (Czechia). Sustainability, 12(21), 9111. DOI: [10.3390/su13168745](https://doi.org/10.3390/su13168745)
 
-ŠTRAUB, D. (2020): The Effects of Fare-Free Public Transport: A Lesson from Frýdek-Místek (Czechia). Sustainability, 12, 21, pp. 1-15. DOI: [10.3390/su12219111](https://doi.org/10.3390/su12219111)
+Štraub, D., & Gajda, A. (2020). E-scooter sharing schemes operational zones
+ in Poland: Dataset on voivodeship capital cities. Data in Brief, 33, 106560. DOI: [10.1016/j.dib.2020.106560](https://doi.org/10.1016/j.dib.2020.106560)
 
-ŠTRAUB, D. (2019): Riding without a ticket: Geography of free fare public transport policy in Poland. Urban Development Issues, 64, 17-27. DOI: [10.2478/udi-2019-0020](https://doi.org/10.2478/udi-2019-0020) 
+Štraub, D. (2020). The Effects of Fare-Free Public Transport: A Lesson from Frýdek-Místek (Czechia). Sustainability, 12(21), 9111. DOI: [10.3390/su12219111](https://doi.org/10.3390/su12219111)
 
-ŠTRAUB, D., JAROŠ, V. (2019): Free fare policy as a tool for sustainable development of public transport services. Human Geographies – Journal of Studies and Research in Human Geography, 13, 1, pp. 46-59. DOI: [10.5719/hgeo.2019.131.3](http://dx.doi.org/10.5719/hgeo.2019.131.3)
+Štraub, D. (2019). Riding without a ticket: geography of free fare public transport policy in Poland. Urban Development Issues, 64(1), 17–27. DOI: [10.2478/udi-2019-0020](https://doi.org/10.2478/udi-2019-0020) 
 
-## Popular
+Štraub, D., & Jaroš, V. (2019). Free fare policy as a tool for sustainable development of public transport services. HUMAN GEOGRAPHIES – JOURNAL of STUDIES and RESEARCH in HUMAN GEOGRAPHY, 13(1), 45–59. DOI: [10.5719/hgeo.2019.131.3](http://dx.doi.org/10.5719/hgeo.2019.131.3)
+
+## Chapters
+Działek, J., Małochleb, K., Miśkowiec, M., Świgost-Kapocsi, A., Štraub, D., Gorczyca, K., Grochowicz, M., & Gwosdz, K. (2021). W kierunku kampusu zrównoważonego. In B. Gibała-Kapecka (Ed.), Kampus (r)ewolucja : nowa przestrzeń (pp. 10–36). Wydawnictwo Akademii Sztuk Pięknych im. Jana Matejki w Krakowie.
+
+## Bok reviews
+Review: J. Dellheim, J. Prince (eds.) – Free public transit: and why we don’t pay to ride elevators, Black Rose Books, Montreal, 2018; 250 pp. [online](https://www.ejournals.eu/PKGKPTG/2021/24(1)/art/20596/)
+
+# Popular
+* _"Fare-free public transport against injustice – if optimized"_ - oped post for [Intelligent Transport](https://www.intelligenttransport.com/transport-articles/126057/fare-free-public-transport-against-injustice-if-optimised/) 
+
 * _"E-scooter sharing schemes – managerial practises: pilot results, Cracow (PL) "_ - op-ed post for [Observatorium Politiky Miejskiej](http://obserwatorium.miasta.pl/) (Urban Policy Observatory); currently only in Polish [here](http://obserwatorium.miasta.pl/praktyki-zarzadzania-segmentem-uto-w-polskich-miastach-wnioski-z-pilotazu/), English soon
 
 * _"Future of the e-scooter sharing schemes: examples of various approaches"_ - op-ed post for [Observatorium Politiky Miejskiej](http://obserwatorium.miasta.pl/) (Urban Policy Observatory); for Polish version go [here](http://obserwatorium.miasta.pl/przyszlosc-branzy-e-hulajnog-a-dzialania-miast/), English version [at this blog](http://straubd.me/blog/2020/10/mobility/future-of-the-escooter)
