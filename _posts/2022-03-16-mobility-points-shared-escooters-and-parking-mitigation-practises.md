@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mobility points, shared e-scooters, and parking mitigation practises"
-date:   2022-03-16 15:36:27
+date:   2022-03-16 08:36:27
 categories: ['e-scooters']
 ---
 > In this post I provide update (new article!) and short reflection on my shared e-scooter research.
