@@ -13,7 +13,7 @@ Also, I write Fare-free public transport policy newsletter. Join <a href="https:
 Pistelok, P., & Štraub, D. (2022). It is time to get virtual: limitations of shared e-scooter mobility points, case study in Cracow (Poland). Geografie, 127 (1), 1–29. DOI: [10.37040/geografie2022127010001](https://doi.org/10.37040/geografie2022127010001)
 
 Pistelok, P., & Štraub, D. (2021). Evaluation of the Road Policy in the Light of Vision Zero in Jaworzno, Poland.
-Sustainability, 13(16), 8745. DOI: [10.3990/su13168745] (https://doi.org/10.3390/su13168745)
+Sustainability, 13(16), 8745. DOI: [10.3990/su13168745](https://doi.org/10.3390/su13168745)
 
 Štraub, D., & Gajda, A. (2020). E-scooter sharing schemes operational zones
  in Poland: Dataset on voivodeship capital cities. Data in Brief, 33, 106560. DOI: [10.1016/j.dib.2020.106560](https://doi.org/10.1016/j.dib.2020.106560)
