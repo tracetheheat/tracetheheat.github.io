@@ -26,8 +26,12 @@ Pistelok, P., & Štraub, D. (2022). It is time to get virtual: limitations of sh
 ## Chapters
 Działek, J., Małochleb, K., Miśkowiec, M., Świgost-Kapocsi, A., Štraub, D., Gorczyca, K., Grochowicz, M., & Gwosdz, K. (2021). W kierunku kampusu zrównoważonego. In B. Gibała-Kapecka (Ed.), Kampus (r)ewolucja : nowa przestrzeń (pp. 10–36). Wydawnictwo Akademii Sztuk Pięknych im. Jana Matejki w Krakowie.
 
-## Bok reviews
+## Book reviews
 Review: J. Dellheim, J. Prince (eds.) – Free public transit: and why we don’t pay to ride elevators, Black Rose Books, Montreal, 2018; 250 pp. [online](https://www.ejournals.eu/PKGKPTG/2021/24(1)/art/20596/)
+
+## Reports
+Štraub, D., Pistelok, P. (2022) Shared mobility. Management methods of electric scooters in cities with county rights,
+Institute of Urban and Regional Development, Warsaw-Cracow. [online](https://obserwatorium.miasta.pl/mobilnosc-wspoldzielona/)
 
 # Popular
 * _"Fare-free public transport against injustice – if optimized"_ - oped post for [Intelligent Transport](https://www.intelligenttransport.com/transport-articles/126057/fare-free-public-transport-against-injustice-if-optimised/) 
