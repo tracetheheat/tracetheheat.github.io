@@ -8,7 +8,7 @@ I'm focusing on various mobility and transport policies, the mechanisms of their
 
 # Publications
 ## Articles
-Fiedeń, Ł., & Štraub, D. (2023). The importance of ticket price in public transport in nonmetropolitan rural areas in Poland. Bulletin of Geography. Socio-Economic Series, 59, 57–68. DOI:[10.12775/bgss-2023-0004] (https://doi.org/10.12775/bgss-2023-0004)
+Fiedeń, Ł., & Štraub, D. (2023). The importance of ticket price in public transport in nonmetropolitan rural areas in Poland. Bulletin of Geography. Socio-Economic Series, 59, 57–68. DOI: [10.12775/bgss-2023-0004] (https://doi.org/10.12775/bgss-2023-0004)
 
 Pistelok, P., & Štraub, D. (2022). It is time to get virtual: limitations of shared e-scooter mobility points, case study in Cracow (Poland). Geografie, 127 (1), 1–29. DOI: [10.37040/geografie2022127010001](https://doi.org/10.37040/geografie2022127010001)
 
@@ -50,3 +50,5 @@ Institute of Urban and Regional Development, Warsaw-Cracow. [online](https://obs
 * _"Sometimes, inovations are born in the suburbs,"_ - opinion post about [free-fare public transport](https://apolitical.co/solution_article/how-a-sleepy-czech-town-became-a-public-transport-pioneer/) in Frýdek-Místek for [Apolitical](https://apolitical.co/home) 
 
 * guest post at [Free Fare Public Transport](https://freepublictransport.info) blog about &#128652; free public transport in [Frýdek Místek](https://freepublictransport.info/2019/03/12/free-fare-public-transport-policy-study-case-frydek-mistek/)
+
+[def]: https://doi.org/10.12775/bgss-2023-0004
