@@ -4,12 +4,12 @@ title: Research
 permalink: /research/
 ---
 
-I'm focusing on various mobility and transport policies, the mechanisms of their implementations and background of their formulations. Especially the fare-free public transport policy and micromobility shared services.
-
-Also, I write Fare-free public transport policy newsletter. Join <a href="https://ffpt.substack.com/p/coming-soon?r=4z2ja&utm_campaign=post&utm_medium=web&utm_source=copy"> the list of subscribers!</a>
+I'm focusing on various mobility and transport policies, the mechanisms of their implementations and background of their formulations. Especially the fare-free public transport policy, micromobility shared services and recently also food waste mittigation practises.
 
 # Publications
 ## Articles
+Fiedeń, Ł., & Štraub, D. (2023). The importance of ticket price in public transport in nonmetropolitan rural areas in Poland. Bulletin of Geography. Socio-Economic Series, 59, 57–68. DOI:[10.12775/bgss-2023-0004] (https://doi.org/10.12775/bgss-2023-0004)
+
 Pistelok, P., & Štraub, D. (2022). It is time to get virtual: limitations of shared e-scooter mobility points, case study in Cracow (Poland). Geografie, 127 (1), 1–29. DOI: [10.37040/geografie2022127010001](https://doi.org/10.37040/geografie2022127010001)
 
 Pistelok, P., & Štraub, D. (2021). Evaluation of the Road Policy in the Light of Vision Zero in Jaworzno, Poland.
