@@ -8,7 +8,7 @@ I'm focusing on various mobility and transport policies, the mechanisms of their
 
 # Publications
 ## Articles
-Fiedeń, Ł., & Štraub, D. (2023). The importance of ticket price in public transport in nonmetropolitan rural areas in Poland. Bulletin of Geography. Socio-Economic Series, 59, 57–68. DOI: [10.12775/bgss-2023-0004] (https://doi.org/10.12775/bgss-2023-0004)
+Fiedeń, Ł., & Štraub, D. (2023). The importance of ticket price in public transport in nonmetropolitan rural areas in Poland. Bulletin of Geography. Socio-Economic Series, 59, 57–68. DOI: [10.12775/bgss-2023-0004](https://doi.org/10.12775/bgss-2023-0004)
 
 Pistelok, P., & Štraub, D. (2022). It is time to get virtual: limitations of shared e-scooter mobility points, case study in Cracow (Poland). Geografie, 127 (1), 1–29. DOI: [10.37040/geografie2022127010001](https://doi.org/10.37040/geografie2022127010001)
 
