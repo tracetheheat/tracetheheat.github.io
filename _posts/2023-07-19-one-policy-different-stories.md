@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "One policy, differentr stories: lobby for fare-free public transport campaign in Wroclaw"
+title:  "One policy, different stories: lobby for fare-free public transport campaign in Wroclaw"
 date:   2023-07-19 05:36:27
 categories: ['fare-free public transport']
 ---
