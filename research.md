@@ -8,9 +8,11 @@ I'm focusing on various mobility and transport policies, the mechanisms of their
 
 # Publications
 ## Articles
+Štraub, D. (2023). On the Road to A Fare-Free Public Transport Policy: A Case Study of The Wroclaw Anarchist Federation. Transport Geography Papers of Polish Geographical Society PTG, 26(1), 40-51. DOI: [10.4467/2543859XPKG.23.003.17400](https://www.ejournals.eu/PKGKPTG/2023/26(1)/art/23468/)
+
 Fiedeń, Ł., & Štraub, D. (2023). The importance of ticket price in public transport in nonmetropolitan rural areas in Poland. Bulletin of Geography. Socio-Economic Series, 59, 57–68. DOI: [10.12775/bgss-2023-0004](https://doi.org/10.12775/bgss-2023-0004)
 
-Pistelok, P., & Štraub, D. (2022). It is time to get virtual: limitations of shared e-scooter mobility points, case study in Cracow (Poland). Geografie, 127 (1), 1–29. DOI: [10.37040/geografie2022127010001](https://doi.org/10.37040/geografie2022127010001)
+Pistelok, P., & Štraub, D. (2022). It is time to get virtual: limitations of shared e-scooter mobility points, case study in Cracow (Poland). Geografie, 127(1), 1–29. DOI: [10.37040/geografie2022127010001](https://doi.org/10.37040/geografie2022127010001)
 
 Pistelok, P., & Štraub, D. (2021). Evaluation of the Road Policy in the Light of Vision Zero in Jaworzno, Poland.
 Sustainability, 13(16), 8745. DOI: [10.3990/su13168745](https://doi.org/10.3390/su13168745)

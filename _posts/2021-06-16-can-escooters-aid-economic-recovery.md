@@ -4,7 +4,7 @@ title:  "Can e-scooters aid economic recovery?"
 date:   2021-06-16 15:36:27
 categories: ['e-scooters']
 ---
-In this post, I [react](https://www.intelligenttransport.com/transport-articles/124946/three-ways-e-scooters-can-aid-economic-recovery/) to the article published at IntelligentTransport. There, the UK Country Manager of Spin, Steve Pyer, presents the possibilities of how shared e-scooters are going to help society with post-pandemic economic recovery.
+> In this post, I [react](https://www.intelligenttransport.com/transport-articles/124946/three-ways-e-scooters-can-aid-economic-recovery/) to the article published at IntelligentTransport. There, the UK Country Manager of Spin, Steve Pyer, presents the possibilities of how shared e-scooters are going to help society with post-pandemic economic recovery.
 
 Unsurprisingly, the e-scooters are in the article framed in the classical safe and personal mode of transport discourse allowing social-distance travel. As suggests the current transport behaviour research in reaction to covid-19, safety issues will be crucial as life will be getting back to normal. Thus, the shared micro-mobility sector uses this notion to promote their services as it is more actual than sustainability, which had been playing the prime before the covid-19 pandemic.
 

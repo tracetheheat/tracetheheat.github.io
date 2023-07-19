@@ -4,7 +4,7 @@ title:  "Price matters, but"
 date:   2023-03-07 08:36:27
 categories: ['fare-free public transport']
 ---
-In this post, I'm providing a short wrap-up of [recently published](https://apcz.umk.pl/BGSS/article/view/39063) **"The importance of ticket price in public transport in non-metropolitan rural areas in Poland"**, which I wrote with my colleague dr Łukasz Fiedeń.
+> In this post, I'm providing a short wrap-up of [recently published](https://apcz.umk.pl/BGSS/article/view/39063) **"The importance of ticket price in public transport in non-metropolitan rural areas in Poland"**, which I wrote with my colleague dr Łukasz Fiedeń.
 
 The price and its role in transport and mobility are evergreen for many scholars. Naturally, I've also followed for a while this path in my PhD project, where I'm unpacking the various aspects of fare-free public transport policy.
 
