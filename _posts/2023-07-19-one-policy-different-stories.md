@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "One policy, differentr stories: lobby for fare-free public transport campaign in Wroclaw"
-date:   2023-07-19 08:36:27
+date:   2023-07-19 05:36:27
 categories: ['fare-free public transport']
 ---
 > This post is a short summary of a recently published [article](https://www.ejournals.eu/PKGKPTG/2023/26(1)/art/23468/) where I examine the Wroclaw Anarchist Federation campaign for a fare-free public transport policy (FFPT).
