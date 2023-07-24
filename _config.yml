@@ -1,6 +1,6 @@
 # Site settings
 title: Daniel Straub
-email: daniel.straub@duj.edu.pl
+email: daniel.straub@uj.edu.pl
 description: > # this means to ignore newlines until "baseurl:"
   Department of Regional Development, Institute of Geography and Spatial Management, Faculty of Geography and Geology, Jagiellonian University, ul. Gronostajowa 7, 30-387 Cracow
 baseurl: "" # the subpath of your site, e.g. /blog/
