@@ -4,10 +4,12 @@ title: Research
 permalink: /research/
 ---
 
-I'm focusing on various mobility and transport policies, the mechanisms of their implementations and background of their formulations. Especially the fare-free public transport policy, micromobility shared services and recently also food waste mittigation practises.
+I'm transport and social geographer. At the moment I focus on fare-free publc transport policy, shared mobilities and food waste mitigation pactises.
 
 # Publications
 ## Articles
+Štraub, D., Kębłowski, W., & Maciejewska, M. (2023). From Bełchatów to Żory: Charting Poland's geography of fare-free public transport programmes. Journal of Transport Geography, 111, 103650: DOI: [10.1016/j.jtrangeo.2023.103650](https://doi.org/10.1016/j.jtrangeo.2023.103650)
+
 Štraub, D. (2023). On the Road to A Fare-Free Public Transport Policy: A Case Study of The Wroclaw Anarchist Federation. Transport Geography Papers of Polish Geographical Society PTG, 26(1), 40-51. DOI: [10.4467/2543859XPKG.23.003.17400](https://www.ejournals.eu/PKGKPTG/2023/26(1)/art/23468/)
 
 Fiedeń, Ł., & Štraub, D. (2023). The importance of ticket price in public transport in nonmetropolitan rural areas in Poland. Bulletin of Geography. Socio-Economic Series, 59, 57–68. DOI: [10.12775/bgss-2023-0004](https://doi.org/10.12775/bgss-2023-0004)
@@ -17,8 +19,7 @@ Pistelok, P., & Štraub, D. (2022). It is time to get virtual: limitations of sh
 Pistelok, P., & Štraub, D. (2021). Evaluation of the Road Policy in the Light of Vision Zero in Jaworzno, Poland.
 Sustainability, 13(16), 8745. DOI: [10.3990/su13168745](https://doi.org/10.3390/su13168745)
 
-Štraub, D., & Gajda, A. (2020). E-scooter sharing schemes operational zones
- in Poland: Dataset on voivodeship capital cities. Data in Brief, 33, 106560. DOI: [10.1016/j.dib.2020.106560](https://doi.org/10.1016/j.dib.2020.106560)
+Štraub, D., & Gajda, A. (2020). E-scooter sharing schemes operational zones in Poland: Dataset on voivodeship capital cities. Data in Brief, 33, 106560. DOI: [10.1016/j.dib.2020.106560](https://doi.org/10.1016/j.dib.2020.106560)
 
 Štraub, D. (2020). The Effects of Fare-Free Public Transport: A Lesson from Frýdek-Místek (Czechia). Sustainability, 12(21), 9111. DOI: [10.3390/su12219111](https://doi.org/10.3390/su12219111)
 
@@ -27,13 +28,15 @@ Sustainability, 13(16), 8745. DOI: [10.3990/su13168745](https://doi.org/10.3390/
 Štraub, D., & Jaroš, V. (2019). Free fare policy as a tool for sustainable development of public transport services. HUMAN GEOGRAPHIES – JOURNAL of STUDIES and RESEARCH in HUMAN GEOGRAPHY, 13(1), 45–59. DOI: [10.5719/hgeo.2019.131.3](http://dx.doi.org/10.5719/hgeo.2019.131.3)
 
 ## Chapters
+Štraub, D., & Mróz, M. (2023). Transport bezpłatny i na żądanie jako alternatywne systemy kształtowania oferty przewozów pasażerskich. In. P. Pistelok (Ed.), Transport i mobilność miejska. Obserwatorium Polityki Miejskiej, Instytut Eozwoju Miast i Regionów. DOI: [10.51733/opm.2023.12](https://obserwatorium.miasta.pl/biblioteka/transport-publiczny-i-na-zadanie-jako-alternatywne-systemy-ksztaltowania-oferty-przewozow-pasazerskich/)
+
 Działek, J., Małochleb, K., Miśkowiec, M., Świgost-Kapocsi, A., Štraub, D., Gorczyca, K., Grochowicz, M., & Gwosdz, K. (2021). W kierunku kampusu zrównoważonego. In B. Gibała-Kapecka (Ed.), Kampus (r)ewolucja : nowa przestrzeń (pp. 10–36). Wydawnictwo Akademii Sztuk Pięknych im. Jana Matejki w Krakowie.
 
 ## Book reviews
 Review: J. Dellheim, J. Prince (eds.) – Free public transit: and why we don’t pay to ride elevators, Black Rose Books, Montreal, 2018; 250 pp. [online](https://www.ejournals.eu/PKGKPTG/2021/24(1)/art/20596/)
 
 ## Reports
-Štraub, D., Pistelok, P. (2022) Shared mobility. Management methods of electric scooters in cities with county rights,
+Štraub, D., & Pistelok, P. (2022) Shared mobility. Management methods of electric scooters in cities with county rights,
 Institute of Urban and Regional Development, Warsaw-Cracow. [online](https://obserwatorium.miasta.pl/mobilnosc-wspoldzielona/)
 
 # Popular
