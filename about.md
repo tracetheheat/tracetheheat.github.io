@@ -11,4 +11,4 @@ I'm a devoted runner. I do running a lot. I'm mainly focusing on marathon distan
 
 **You still here?** 
 
-Feel free to check my [blog](blog.md) &#9749; where I reflect on what's conneced with my research or in case you are a book worm, head out to my goodreads profile <a href="https://www.goodreads.com/user/show/179261329-daniel-traub">profile</a>!
+Feel free to check my [blog](blog.md) &#9749; where I reflect on what's conneced with my research or in case you are a book worm, head out to my goodreads <a href="https://www.goodreads.com/user/show/179261329-daniel-traub">profile</a>!

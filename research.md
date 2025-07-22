@@ -8,6 +8,8 @@ I'm transport and social geographer. At the moment I focus on fare-free public t
 
 # Publications
 ## Articles
+Štraub, D., Hess, D. B., (2025). Re-examining fare-free public transport for greater inclusivity. Transportation Research Interdisciplinary Perspectives, 31, 101454: DOI: [10.1016/j.trip.2025.101454](https://doi.org/10.1016/j.trip.2025.101454)
+
 Štraub, D., Kębłowski, W., & Maciejewska, M. (2023). From Bełchatów to Żory: Charting Poland's geography of fare-free public transport programmes. Journal of Transport Geography, 111, 103650: DOI: [10.1016/j.jtrangeo.2023.103650](https://doi.org/10.1016/j.jtrangeo.2023.103650)
 
 Štraub, D. (2023). On the Road to A Fare-Free Public Transport Policy: A Case Study of The Wroclaw Anarchist Federation. Transport Geography Papers of Polish Geographical Society PTG, 26(1), 40-51. DOI: [10.4467/2543859XPKG.23.003.17400](https://www.ejournals.eu/PKGKPTG/2023/26(1)/art/23468/)
@@ -28,7 +30,7 @@ Sustainability, 13(16), 8745. DOI: [10.3990/su13168745](https://doi.org/10.3390/
 Štraub, D., & Jaroš, V. (2019). Free fare policy as a tool for sustainable development of public transport services. HUMAN GEOGRAPHIES – JOURNAL of STUDIES and RESEARCH in HUMAN GEOGRAPHY, 13(1), 45–59. DOI: [10.5719/hgeo.2019.131.3](http://dx.doi.org/10.5719/hgeo.2019.131.3)
 
 ## Chapters
-Štraub, D., & Mróz, M. (2023). Transport bezpłatny i na żądanie jako alternatywne systemy kształtowania oferty przewozów pasażerskich. In. P. Pistelok (Ed.), Transport i mobilność miejska. Obserwatorium Polityki Miejskiej, Instytut Eozwoju Miast i Regionów. DOI: [10.51733/opm.2023.12](https://obserwatorium.miasta.pl/biblioteka/transport-publiczny-i-na-zadanie-jako-alternatywne-systemy-ksztaltowania-oferty-przewozow-pasazerskich/)
+Štraub, D., & Mróz, M. (2023). Transport bezpłatny i na żądanie jako alternatywne systemy kształtowania oferty przewozów pasażerskich. In. P. Pistelok (Ed.), Transport i mobilność miejska. Obserwatorium Polityki Miejskiej, Instytut Rozwoju Miast i Regionów. DOI: [10.51733/opm.2023.12](https://obserwatorium.miasta.pl/biblioteka/transport-publiczny-i-na-zadanie-jako-alternatywne-systemy-ksztaltowania-oferty-przewozow-pasazerskich/)
 
 Działek, J., Małochleb, K., Miśkowiec, M., Świgost-Kapocsi, A., Štraub, D., Gorczyca, K., Grochowicz, M., & Gwosdz, K. (2021). W kierunku kampusu zrównoważonego. In B. Gibała-Kapecka (Ed.), Kampus (r)ewolucja : nowa przestrzeń (pp. 10–36). Wydawnictwo Akademii Sztuk Pięknych im. Jana Matejki w Krakowie.
 
@@ -36,6 +38,8 @@ Działek, J., Małochleb, K., Miśkowiec, M., Świgost-Kapocsi, A., Štraub, D.,
 Review: J. Dellheim, J. Prince (eds.) – Free public transit: and why we don’t pay to ride elevators, Black Rose Books, Montreal, 2018; 250 pp. [online](https://www.ejournals.eu/PKGKPTG/2021/24(1)/art/20596/)
 
 ## Reports
+Mróz, M.. & Štraub, D. (2024). Powiązania komunikacyjne i dostępność transportowa polskich miast w nawiązaniu do aktualnej hierarchii osadniczej. Obserwatorium Polityki Miejskiej, Instytut Rozwoju Miast i Regionów. DOI: [10.51733/opm.2024.26](https://irmir.pl/wp-content/uploads/2024/06/Powiazania-komunikacyjne.pdf)
+
 Štraub, D., & Pistelok, P. (2022) Shared mobility. Management methods of electric scooters in cities with county rights,
 Institute of Urban and Regional Development, Warsaw-Cracow. [online](https://obserwatorium.miasta.pl/mobilnosc-wspoldzielona/)
 
