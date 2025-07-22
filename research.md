@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-I'm transport and social geographer. At the moment I focus on fare-free publc transport policy, shared mobilities and food waste mitigation pactises.
+I'm transport and social geographer. At the moment I focus on fare-free public transport policy, shared mobilities and food waste mitigation pactises.
 
 # Publications
 ## Articles
