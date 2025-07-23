@@ -6,7 +6,7 @@ categories: ['fare-free public transport']
 ---
 > In newly published paper I've been writing with Dr Daniel Baldwin [Hess](https://scholar.google.com/citations?user=1_FINjQAAAAJ&hl=cs), we investigated 146 studies on fare-free public transport across 300+ cities. What shocked us? Only 25% of research actually examines how these programs affect vulnerable populations.
 
-# Making Public Transit Free AND Fair: Lessons from Global Research
+# Making Public Transport Free AND Fair: Lessons from Global Research
 
 Imagine a world where anyone can hop on a bus or train without worrying about the fare. That's the promise of fare-free public transport (FFPT) – and it's already happening in over 300 cities worldwide. But new research reveals a troubling gap: while these programs aim to help everyone, they often overlook the people who need them most.
 
