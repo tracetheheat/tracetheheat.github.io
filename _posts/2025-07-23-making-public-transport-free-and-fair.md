@@ -4,7 +4,7 @@ title:  "Making Public Transport Free AND Fair: Lessons from Global Research"
 date:   2025-07-23 05:36:27
 categories: ['fare-free public transport']
 ---
-> In newly published paper I've been writing with Dr Daniel Baldwin [Hess](https://scholar.google.com/citations?user=1_FINjQAAAAJ&hl=cs), we investigated 146 studies on fare-free public transport across 300+ cities. What shocked us? Only 25% of research actually examines how these programs affect vulnerable populations.
+> In newly published [paper](https://www.sciencedirect.com/science/article/pii/S2590198225001332) I've been writing with Dr Daniel Baldwin [Hess](https://scholar.google.com/citations?user=1_FINjQAAAAJ&hl=cs), we investigated 146 studies on fare-free public transport across 300+ cities. What shocked us? Only 25% of research actually examines how these programs affect vulnerable populations.
 
 # Making Public Transport Free AND Fair: Lessons from Global Research
 
