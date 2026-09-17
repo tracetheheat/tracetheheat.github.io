@@ -2,6 +2,7 @@
 layout: page
 title: CV
 permalink: /cv/
+description: "Curriculum vitae of Daniel Straub, Assistant Professor at the Institute of Geography and Spatial Management, Jagiellonian University."
 ---
 Below you could find my resume
 

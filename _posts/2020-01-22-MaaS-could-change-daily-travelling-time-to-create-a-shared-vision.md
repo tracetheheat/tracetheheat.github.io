@@ -4,9 +4,9 @@ title:  "MaaS could change daily travelling - time to create a shared vision"
 date:   2020-01-22 15:36:27
 categories: mobility
 ---
-> this is and English version of the post on MaaS, and it's potential in Cracow; initially written for [Observatorium Politiky Miejskiej](http://obserwatorium.miasta.pl/) (Urban Policy Observatory)
+> this is and English version of the post on MaaS, and it's potential in Cracow; initially written for [Observatorium Polityki Miejskiej](http://obserwatorium.miasta.pl/) (Urban Policy Observatory)
 
-> Yes, it is a sum-up of my two [previous](http://straubd.me/blog/2019/12/mobility/Mobility-as-a-Service-how-far-are-we-pt1) [posts](http://straubd.me/blog/2019/12/mobility/Mobility-as-a-Service-how-far-are-we-pt2) on MaaS
+> Yes, it is a sum-up of my two [previous](https://straubd.me/blog/2019/12/mobility/Mobility-as-a-Service-how-far-are-we-pt1) [posts](https://straubd.me/blog/2019/12/mobility/Mobility-as-a-Service-how-far-are-we-pt2) on MaaS
 
 There are at this moment more than 20 transportation modes & services available in Cracow which is an excellent asset for the variability of Cracows transportation system but makes it difficult for the end-user to compare and find the best solution.
 

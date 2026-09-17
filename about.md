@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+description: "A short introduction to Daniel Straub outside academia — running, recharging, and reading — alongside links to his blog and Goodreads profile."
 ---
 &#9995; Would you like to know what I'm doing, when I'm not reading papers or writing? Or what is helping me to **recharge my battery?**
 
@@ -11,4 +12,4 @@ I'm a devoted runner. I do running a lot. I'm mainly focusing on marathon distan
 
 **You still here?** 
 
-Feel free to check my [blog](blog.md) &#9749; where I reflect on what's conneced with my research or in case you are a book worm, head out to my goodreads <a href="https://www.goodreads.com/user/show/179261329-daniel-traub">profile</a>!
+Feel free to check my [blog](blog.md) &#9749; where I reflect on what's connected with my research or in case you are a book worm, head out to my goodreads <a href="https://www.goodreads.com/user/show/179261329-daniel-straub">profile</a>!

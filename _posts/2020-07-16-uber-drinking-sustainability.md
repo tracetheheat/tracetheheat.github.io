@@ -4,7 +4,7 @@ title:  "Uber, drinking, sustainability"
 date:   2020-07-16 15:36:27
 categories: ['mobility']
 ---
-In my last blog entry [Will cycling be the new normal](http://straubd.me/blog/2020/06/mobility/will-cycling-be-the-new-normal) I'm saying that the cities are attractive because of the number of possibilities they offer to us.
+In my last blog entry [Will cycling be the new normal](https://straubd.me/blog/2020/06/mobility/will-cycling-be-the-new-normal) I'm saying that the cities are attractive because of the number of possibilities they offer to us.
 
 It's the shop around each corner. Cosy bars, cafes and restaurant. Opportunities to meet new people, learn and work. Being able to do almost everything whenever something has just crossed our minds.
 

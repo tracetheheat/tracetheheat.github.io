@@ -2,9 +2,10 @@
 layout: page
 title: Research
 permalink: /research/
+description: "Research profile and publication list of Daniel Straub, a transport and social geographer focusing on fare-free public transport, shared mobility and food waste mitigation."
 ---
 
-I'm transport and social geographer. At the moment I focus on fare-free public transport policy, shared mobilities and food waste mitigation pactises.
+I'm transport and social geographer. At the moment I focus on fare-free public transport policy, shared mobilities and food waste mitigation practices.
 
 # Publications
 ## Articles
@@ -19,7 +20,7 @@ Fiedeń, Ł., & Štraub, D. (2023). The importance of ticket price in public tra
 Pistelok, P., & Štraub, D. (2022). It is time to get virtual: limitations of shared e-scooter mobility points, case study in Cracow (Poland). Geografie, 127(1), 1–29. DOI: [10.37040/geografie2022127010001](https://doi.org/10.37040/geografie2022127010001)
 
 Pistelok, P., & Štraub, D. (2021). Evaluation of the Road Policy in the Light of Vision Zero in Jaworzno, Poland.
-Sustainability, 13(16), 8745. DOI: [10.3990/su13168745](https://doi.org/10.3390/su13168745)
+Sustainability, 13(16), 8745. DOI: [10.3390/su13168745](https://doi.org/10.3390/su13168745)
 
 Štraub, D., & Gajda, A. (2020). E-scooter sharing schemes operational zones in Poland: Dataset on voivodeship capital cities. Data in Brief, 33, 106560. DOI: [10.1016/j.dib.2020.106560](https://doi.org/10.1016/j.dib.2020.106560)
 
@@ -46,17 +47,17 @@ Institute of Urban and Regional Development, Warsaw-Cracow. [online](https://obs
 # Popular
 * _"Fare-free public transport against injustice – if optimized"_ - oped post for [Intelligent Transport](https://www.intelligenttransport.com/transport-articles/126057/fare-free-public-transport-against-injustice-if-optimised/) 
 
-* _"E-scooter sharing schemes – managerial practises: pilot results, Cracow (PL) "_ - op-ed post for [Observatorium Politiky Miejskiej](http://obserwatorium.miasta.pl/) (Urban Policy Observatory); currently only in Polish [here](http://obserwatorium.miasta.pl/praktyki-zarzadzania-segmentem-uto-w-polskich-miastach-wnioski-z-pilotazu/), English soon
+* _"E-scooter sharing schemes – managerial practises: pilot results, Cracow (PL) "_ - op-ed post for [Observatorium Polityki Miejskiej](http://obserwatorium.miasta.pl/) (Urban Policy Observatory); currently only in Polish [here](http://obserwatorium.miasta.pl/praktyki-zarzadzania-segmentem-uto-w-polskich-miastach-wnioski-z-pilotazu/), English soon
 
-* _"Future of the e-scooter sharing schemes: examples of various approaches"_ - op-ed post for [Observatorium Politiky Miejskiej](http://obserwatorium.miasta.pl/) (Urban Policy Observatory); for Polish version go [here](http://obserwatorium.miasta.pl/przyszlosc-branzy-e-hulajnog-a-dzialania-miast/), English version [at this blog](http://straubd.me/blog/2020/10/mobility/future-of-the-escooter)
+* _"Future of the e-scooter sharing schemes: examples of various approaches"_ - op-ed post for [Observatorium Polityki Miejskiej](http://obserwatorium.miasta.pl/) (Urban Policy Observatory); for Polish version go [here](http://obserwatorium.miasta.pl/przyszlosc-branzy-e-hulajnog-a-dzialania-miast/), English version [at this blog](https://straubd.me/blog/2020/10/mobility/future-of-the-escooter)
 
-* _"In the search of new strategies! COVID-19 and new (non)mobility patterns"_ - policy paper for [Observatorium Politiky Miejskiej](http://obserwatorium.miasta.pl/) (Urban Policy Observatory); post with short Polish descripiton [here](http://obserwatorium.miasta.pl/covid-19-i-nowe-kierunki-niemobilnosci-raport/?fbclid=IwAR3OhpFHzXqa3SMQApxX4kJxM5u_xVZLK4BBApFhYeNmsgNlBaoGqRyEw7c), for pdf in English go to this [blog entry](http://straubd.me/blog/2020/05/mobility/covid19-and-non-mobility-strategies)
+* _"In the search of new strategies! COVID-19 and new (non)mobility patterns"_ - policy paper for [Observatorium Polityki Miejskiej](http://obserwatorium.miasta.pl/) (Urban Policy Observatory); post with short Polish description [here](http://obserwatorium.miasta.pl/covid-19-i-nowe-kierunki-niemobilnosci-raport/?fbclid=IwAR3OhpFHzXqa3SMQApxX4kJxM5u_xVZLK4BBApFhYeNmsgNlBaoGqRyEw7c), for pdf in English go to this [blog entry](https://straubd.me/blog/2020/05/mobility/covid19-and-non-mobility-strategies)
 
-* _"Time to accelerate the MaaS integration is now!"_ - op-ed post for [Observatorium Politiky Miejskiej](http://obserwatorium.miasta.pl/) (Urban Policy Observatory); original [Polish version](http://obserwatorium.miasta.pl/maasa-forma-czas-na-zdecydowane-dzialania/?fbclid=IwAR3qKlRuUPxWr_EZBQfGY8mYb78gGLpXhxinyRkcOSei3gOHsoii4eBgh_4) of the post and [here](http://straubd.me/blog/2020/04/mobility/time-to-accelerate-maas-interation-is-now) English
+* _"Time to accelerate the MaaS integration is now!"_ - op-ed post for [Observatorium Polityki Miejskiej](http://obserwatorium.miasta.pl/) (Urban Policy Observatory); original [Polish version](http://obserwatorium.miasta.pl/maasa-forma-czas-na-zdecydowane-dzialania/?fbclid=IwAR3qKlRuUPxWr_EZBQfGY8mYb78gGLpXhxinyRkcOSei3gOHsoii4eBgh_4) of the post and [here](https://straubd.me/blog/2020/04/mobility/time-to-accelerate-maas-integration-is-now) English
 
-* _"MaaS could change daily travelling - time to create a shared vision_" - op-ed post written for [Observatorium Politiky Miejskiej](http://obserwatorium.miasta.pl/) (Urban Policy Observatory), [original](http://obserwatorium.miasta.pl/wiele-srodkow-transportu-jeden-system-czym-jest-mobility-as-a-service/) article (Polish) and [English](http://straubd.me/blog/2020/01/mobility/MaaS-could-change-daily-travelling-time-to-create-a-shared-vision) version 
+* _"MaaS could change daily travelling - time to create a shared vision_" - op-ed post written for [Observatorium Polityki Miejskiej](http://obserwatorium.miasta.pl/) (Urban Policy Observatory), [original](http://obserwatorium.miasta.pl/wiele-srodkow-transportu-jeden-system-czym-jest-mobility-as-a-service/) article (Polish) and [English](https://straubd.me/blog/2020/01/mobility/MaaS-could-change-daily-travelling-time-to-create-a-shared-vision) version 
 
-* _"Sometimes, inovations are born in the suburbs,"_ - opinion post about [free-fare public transport](https://apolitical.co/solution_article/how-a-sleepy-czech-town-became-a-public-transport-pioneer/) in Frýdek-Místek for [Apolitical](https://apolitical.co/home) 
+* _"Sometimes, innovations are born in the suburbs,"_ - opinion post about [free-fare public transport](https://apolitical.co/solution_article/how-a-sleepy-czech-town-became-a-public-transport-pioneer/) in Frýdek-Místek for [Apolitical](https://apolitical.co/home) 
 
 * guest post at [Free Fare Public Transport](https://freepublictransport.info) blog about &#128652; free public transport in [Frýdek Místek](https://freepublictransport.info/2019/03/12/free-fare-public-transport-policy-study-case-frydek-mistek/)
 
