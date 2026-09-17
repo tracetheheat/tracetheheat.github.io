@@ -2,7 +2,7 @@
 layout: page
 title: Blog
 permalink: /blog/
-description: "Daniel Straub's blog reflecting on his research in transport geography, fare-free public transport, mobility and related topics."
+description: "Daniel Štraub's blog reflecting on his research in transport geography, fare-free public transport, mobility and related topics."
 ---
 
 Here is my semi-regular blog &#128221;, where I reflect my research or write about stuff which are reletad to my PhD. Eventually other things which cross my mind.

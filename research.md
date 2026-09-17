@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-description: "Research profile and publication list of Daniel Straub, a transport and social geographer focusing on fare-free public transport, shared mobility and food waste mitigation."
+description: "Research profile and publication list of Daniel Štraub, a transport and social geographer focusing on fare-free public transport, shared mobility and food waste mitigation."
 ---
 
 I'm transport and social geographer. At the moment I focus on fare-free public transport policy, shared mobilities and food waste mitigation practices.

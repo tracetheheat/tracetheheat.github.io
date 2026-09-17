@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-description: "A short introduction to Daniel Straub outside academia — running, recharging, and reading — alongside links to his blog and Goodreads profile."
+description: "A short introduction to Daniel Štraub outside academia — running, recharging, and reading — alongside links to his blog and Goodreads profile."
 ---
 &#9995; Would you like to know what I'm doing, when I'm not reading papers or writing? Or what is helping me to **recharge my battery?**
 
