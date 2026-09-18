@@ -4,6 +4,14 @@
 - title: "Research"
   href: "/research/"
 
+- title: "Projects"
+  href: "/projects/"
+  subcategories:
+    - subtitle: "Fare-free public transport"
+      subhref: "/projects/fare-free-public-transport/"
+    - subtitle: "Geographies of Recovery"
+      subhref: "/projects/geographies-of-recovery/"
+
 - title: "Blog"
   href: "/blog/"
 
