@@ -4,7 +4,7 @@ title:  "Managerial practises and e-scooter sharing services: pilot results"
 date:   2020-12-23 15:36:27
 categories: ['e-scooters']
 ---
-In one of my [last post](https://straubd.me/blog/2020/10/mobility/future-of-the-escooter) about e-scooter sharing services, I've informed you that it is not only the popularity of e-scooter sharing services, which is rising, but the emergence of the new vehicles at public space comes along with new challenges. In the previous post, I've also shown some examples of how various cities across Europe are trying to deal with the new challenges.
+In one of my [last post](https://straubd.me/blog/2020/10/e-scooters/future-of-the-escooter) about e-scooter sharing services, I've informed you that it is not only the popularity of e-scooter sharing services, which is rising, but the emergence of the new vehicles at public space comes along with new challenges. In the previous post, I've also shown some examples of how various cities across Europe are trying to deal with the new challenges.
 
 The new challenges are connected with urgent issues like missing legislation or safety on the streets, but also the question of how to ensure the new mobility service is effectively embedded into current urban and transport landscape.
 
