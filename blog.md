@@ -5,9 +5,9 @@ permalink: /blog/
 description: "Daniel Štraub's blog reflecting on his research in transport geography, fare-free public transport, mobility and related topics."
 ---
 
-Here is my semi-regular blog &#128221;, where I reflect my research or write about stuff which are reletad to my PhD. Eventually other things which cross my mind.
+This is my semi-regular blog &#128221;. I write here about my research, about things that sit close to it, and occasionally about whatever else crosses my mind.
 
-*Chronological* order of all blog posts is below and [category page is here](categories.html)
+All posts are listed *chronologically* below. You can also browse them [by category](/categories/).
 
 <ul class="listing">
 {% for post in site.posts %}
