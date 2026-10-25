@@ -7,7 +7,9 @@ description: "Daniel Štraub's blog reflecting on his research in transport geog
 
 This is my semi-regular blog &#128221;. I write here about my research, about things that sit close to it, and occasionally about whatever else crosses my mind.
 
-All posts are listed *chronologically* below. You can also browse them [by category](/categories/) or follow the blog via the [RSS feed](/feed.xml).
+All posts are listed *chronologically* below. You can also browse them [by category](/categories/).
+
+Want to follow new posts? Subscribe via [RSS]({{ "/feed.xml" | prepend: site.baseurl }}) in any feed reader, such as Feedly, Inoreader or NetNewsWire.
 
 <ul class="listing">
 {% for post in site.posts %}
