@@ -4,15 +4,27 @@ permalink: /categories/
 title: Categories
 ---
 
+{% comment %}
+  Categories are listed by recent activity: the category with the newest post comes first.
+  Each key is "<date of newest post>::<category name>", so sorting the keys sorts by date.
+  Display names come from _data/categories.yml.
+{% endcomment %}
+{% assign category_keys = "" | split: "" %}
+{% for category in site.categories %}
+  {% assign latest_post = category[1] | sort: "date" | last %}
+  {% capture category_key %}{{ latest_post.date | date: "%Y%m%d%H%M%S" }}::{{ category[0] }}{% endcapture %}
+  {% assign category_keys = category_keys | push: category_key %}
+{% endfor %}
+{% assign category_keys = category_keys | sort | reverse %}
 
 <div id="archives">
-{% for category in site.categories %}
+{% for category_key in category_keys %}
+  {% assign category_name = category_key | split: "::" | last %}
+  {% assign category_label = site.data.categories[category_name] | default: category_name %}
   <div class="archive-group">
-    {% capture category_name %}{{ category | first }}{% endcapture %}
-    <div id="#{{ category_name | slugize }}"></div>
     <p></p>
 
-    <h3 class="category-head">{{ category_name }}</h3>
+    <h3 class="category-head" id="{{ category_name | slugize }}">{{ category_label }}</h3>
     <a name="{{ category_name | slugize }}"></a>
     {% for post in site.categories[category_name] %}
     <article class="archive-item">

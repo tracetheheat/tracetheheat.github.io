@@ -1,0 +1,14 @@
+# Display names for blog categories.
+# Keys are the category names used in post front matter (they also appear in post URLs,
+# so don't rename them in posts). Values are what readers see. A category missing here
+# is shown under its raw name.
+GeographiesOfRecovery: "Geographies of Recovery"
+ResearchChat: "Research Chat"
+PhDchat: "PhD Chat"
+e-mobility: "E-mobility"
+e-scooters: "E-scooters"
+fare-free public transport: "Fare-free public transport"
+public transport: "Public transport"
+mobility: "Mobility"
+journal: "Journal"
+opinion: "Opinion"

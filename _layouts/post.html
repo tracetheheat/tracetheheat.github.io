@@ -9,7 +9,8 @@ layout: default
 {% if page.categories %}
   in
   {% for cat in page.categories %}
-  <a href="/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
+  {% assign cat_label = site.data.categories[cat] | default: cat %}
+  <a href="/categories/#{{ cat | slugize }}" title="{{ cat_label }}">{{ cat_label }}</a>&nbsp;
   {% endfor %}
 
 {% endif %}
