@@ -10,7 +10,7 @@ layout: default
   in
   {% for cat in page.categories %}
   {% assign cat_label = site.data.categories[cat] | default: cat %}
-  <a href="/categories/#{{ cat | slugize }}" title="{{ cat_label }}">{{ cat_label }}</a>&nbsp;
+  <a href="/categories/#{{ cat | slugify }}" title="{{ cat_label }}">{{ cat_label }}</a>&nbsp;
   {% endfor %}
 
 {% endif %}

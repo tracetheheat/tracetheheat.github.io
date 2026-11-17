@@ -24,8 +24,8 @@ title: Categories
   <div class="archive-group">
     <p></p>
 
-    <h3 class="category-head" id="{{ category_name | slugize }}">{{ category_label }}</h3>
-    <a name="{{ category_name | slugize }}"></a>
+    <h3 class="category-head" id="{{ category_name | slugify }}">{{ category_label }}</h3>
+    <a name="{{ category_name | slugify }}"></a>
     {% for post in site.categories[category_name] %}
     <article class="archive-item">
       <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
