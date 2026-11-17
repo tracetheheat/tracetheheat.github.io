@@ -31,6 +31,10 @@ Poland is a revealing case. Its addiction treatment infrastructure emerged throu
 
 The project began in October 2026 and runs for 36 months, organised across five work packages moving from data infrastructure through national-scale analysis to regional case studies and policy synthesis.
 
+## Blog
+
+I write about the project on the blog Geographies of Recovery, published on [Substack](https://geographiesofrecovery.substack.com/) and also here on my site. All posts are collected in the [Geographies of Recovery category](/blog/geographies-of-recovery/).
+
 ## Team
 
 - Daniel Štraub — principal investigator, Jagiellonian University
@@ -46,4 +50,4 @@ Funded by the National Science Centre, Poland, under the OPUS 30 scheme, agreeme
 
 ---
 
-*Last updated: September 2026*
+*Last updated: November 2026*
